@@ -1,0 +1,1410 @@
+customer_id,churn_probability,risk_level,retention_priority,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,TechSupport,OnlineSecurity,PaperlessBilling,actual_churn
+4376-KFVRS,0.0122004523873329,LOW,MONITOR,72,114.05,8468.2,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+2754-SDJRD,0.8135728240013123,HIGH,URGENT,8,100.15,908.55,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+9917-KWRBE,0.083994947373867,LOW,MONITOR,41,78.35,3211.2,One year,DSL,Credit card (automatic),No,Yes,Yes,No
+0365-GXEZS,0.4408303797245025,MEDIUM,ENGAGE,18,78.2,1468.75,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No
+9385-NXKDA,0.0031111047137528,LOW,MONITOR,72,82.65,5919.35,Two year,DSL,Credit card (automatic),No,Yes,Yes,No
+4686-UXDML,0.6123734712600708,HIGH,URGENT,21,99.85,1992.55,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+2227-JRSJX,0.4834162294864654,MEDIUM,ENGAGE,21,99.15,1956.4,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+4830-FAXFM,0.1240005120635032,LOW,MONITOR,19,24.1,439.2,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+1830-IPXVJ,0.0093931714072823,LOW,MONITOR,61,19.75,1311.6,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+4690-LLKUA,0.3571003973484039,MEDIUM,ENGAGE,17,45.05,770.6,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+5804-HYIEZ,0.3589673042297363,MEDIUM,ENGAGE,70,106.05,7554.05,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+2388-LAESQ,0.0135822584852576,LOW,MONITOR,72,114.85,8317.95,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+5533-RJFTJ,0.2043464928865432,LOW,MONITOR,49,30.2,1453.1,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+4706-AXVKM,0.7505303621292114,HIGH,URGENT,11,84.8,906.85,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+0997-YTLNY,0.1088428124785423,LOW,MONITOR,19,48.8,953.65,Month-to-month,DSL,Mailed check,Yes,No,No,No
+7971-HLVXI,0.0517874583601951,LOW,MONITOR,72,84.5,6130.85,Two year,Fiber optic,Credit card (automatic),No,No,Yes,No
+7337-CINUD,0.0144881512969732,LOW,MONITOR,8,19.5,159.35,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+1379-FRVEB,0.6914727091789246,HIGH,URGENT,15,91.0,1430.05,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+4753-PADAS,0.1942652761936187,LOW,MONITOR,67,105.7,6816.95,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+5701-GUXDC,0.0411431789398193,LOW,MONITOR,26,35.4,978.6,One year,DSL,Credit card (automatic),No,Yes,No,No
+7235-NXZCP,0.7347888350486755,HIGH,URGENT,2,74.85,156.4,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes
+0668-OGMHD,0.2348200678825378,LOW,MONITOR,21,28.5,629.35,Month-to-month,DSL,Electronic check,No,Yes,No,No
+2812-REYAT,0.0208346396684646,LOW,MONITOR,49,20.05,923.1,One year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+8779-YIQQA,0.030169615522027,LOW,MONITOR,21,19.8,350.1,One year,No,Mailed check,No internet service,No internet service,No,No
+9701-CDXHR,0.1265530735254287,LOW,MONITOR,51,69.15,3649.6,Month-to-month,Fiber optic,Mailed check,No,No,No,No
+7130-CTCUS,0.2063015550374984,LOW,MONITOR,16,54.55,825.1,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+1894-IGFSG,0.3847838044166565,MEDIUM,ENGAGE,22,89.25,1907.85,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+0871-URUWO,0.7052381634712219,HIGH,URGENT,13,102.25,1359.0,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+0057-QBUQH,0.0310946125537157,LOW,MONITOR,43,25.1,1070.15,Two year,No,Electronic check,No internet service,No internet service,Yes,No
+9611-CTWIH,0.7399311065673828,HIGH,URGENT,3,89.45,240.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8058-DMYRU,0.4446734488010406,MEDIUM,ENGAGE,54,90.05,4931.8,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+5351-QESIO,0.4722955822944641,MEDIUM,ENGAGE,1,24.2,24.2,Month-to-month,DSL,Mailed check,No,No,No,No
+4302-ZYFEL,0.005575553048402,LOW,MONITOR,69,20.55,1403.1,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+6134-KWTBV,0.0133073609322309,LOW,MONITOR,62,23.4,1429.65,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+2034-GDRCN,0.7628583908081055,HIGH,URGENT,2,90.4,168.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9544-PYPSJ,0.2505727112293243,LOW,MONITOR,62,96.1,6019.35,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+4208-UFFGW,0.5371437072753906,MEDIUM,ENGAGE,2,44.95,85.15,Month-to-month,DSL,Mailed check,No,No,No,Yes
+9537-JALFH,0.0076830144971609,LOW,MONITOR,69,19.9,1356.7,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+4415-IJZTP,0.8665361404418945,HIGH,URGENT,1,74.5,74.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4701-MLJPN,0.1390144377946853,LOW,MONITOR,31,55.25,1715.65,Month-to-month,DSL,Electronic check,Yes,No,Yes,Yes
+7515-LODFU,0.003656645072624,LOW,MONITOR,69,20.3,1356.3,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+4927-WWOOZ,0.8491306900978088,HIGH,URGENT,2,91.45,171.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+4067-HLYQI,0.4215194582939148,MEDIUM,ENGAGE,33,70.4,2406.1,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+6184-DYUOB,0.1888506114482879,LOW,MONITOR,3,19.6,55.25,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+9209-NWPGU,0.0840324237942695,LOW,MONITOR,44,65.4,2774.55,One year,DSL,Electronic check,Yes,Yes,No,No
+9851-KIELU,0.702937662601471,HIGH,URGENT,10,110.1,1043.3,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,Yes
+3199-XGZCY,0.7162372469902039,HIGH,URGENT,8,75.25,576.7,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+4226-KKDON,0.2222634404897689,LOW,MONITOR,8,66.65,520.95,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+1085-LDWAM,0.0057923379354178,LOW,MONITOR,69,20.35,1442.65,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+6825-UYPFK,0.2187832444906234,LOW,MONITOR,23,75.6,1758.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+1767-CJKBA,0.004512246698141,LOW,MONITOR,66,25.1,1697.7,Two year,No,Mailed check,No internet service,No internet service,No,No
+7181-BQYBV,0.8906952738761902,HIGH,URGENT,1,102.45,102.45,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+0178-CIIKR,0.1537544131278991,LOW,MONITOR,3,19.95,58.0,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+4256-ZWTZI,0.3198989331722259,MEDIUM,ENGAGE,5,51.0,286.8,Month-to-month,DSL,Mailed check,Yes,No,Yes,No
+9537-VHDTA,0.4197601974010467,MEDIUM,ENGAGE,1,51.2,51.2,Month-to-month,DSL,Mailed check,No,Yes,No,No
+2754-XBHTB,0.5709717869758606,MEDIUM,ENGAGE,9,77.65,714.15,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+5975-BAICR,0.0813074484467506,LOW,MONITOR,36,63.7,2188.5,One year,DSL,Credit card (automatic),No,Yes,Yes,No
+3301-VKTGC,0.0598216950893402,LOW,MONITOR,68,85.5,5696.6,One year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No
+2877-VDUER,0.0266061089932918,LOW,MONITOR,35,40.9,1383.6,One year,DSL,Mailed check,Yes,No,No,No
+7717-BICXI,0.0107953157275915,LOW,MONITOR,60,20.55,1205.05,Two year,No,Mailed check,No internet service,No internet service,No,No
+0562-FGDCR,0.0013312521623447,LOW,MONITOR,72,74.55,5430.65,Two year,DSL,Mailed check,Yes,Yes,No,No
+3705-PSNGL,0.0189079716801643,LOW,MONITOR,45,20.4,930.45,One year,No,Electronic check,No internet service,No internet service,Yes,Yes
+0048-LUMLS,0.2187724858522415,LOW,MONITOR,37,91.2,3247.55,One year,Fiber optic,Credit card (automatic),No,No,No,No
+6497-TILVL,0.1691349297761917,LOW,MONITOR,7,50.7,350.35,Month-to-month,DSL,Mailed check,No,Yes,No,No
+2108-YKQTY,0.2702580094337463,LOW,MONITOR,4,50.7,151.3,Month-to-month,DSL,Credit card (automatic),No,No,No,Yes
+3658-KIBGF,0.6528590321540833,HIGH,URGENT,1,54.9,54.9,Month-to-month,DSL,Electronic check,No,Yes,Yes,Yes
+5482-NUPNA,0.1816591322422027,LOW,MONITOR,4,60.4,272.15,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,Yes
+7410-KTVFV,0.2142325937747955,LOW,MONITOR,18,49.55,878.35,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+9033-EOXWV,0.2102801352739334,LOW,MONITOR,12,74.05,872.65,One year,DSL,Mailed check,Yes,No,No,Yes
+8821-XNHVZ,0.8564419150352478,HIGH,URGENT,1,80.05,80.05,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes
+8224-KDLKN,0.0013860877370461,LOW,MONITOR,72,25.0,1738.9,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+4825-FUREZ,0.0090089868754148,LOW,MONITOR,42,20.25,835.5,Two year,No,Electronic check,No internet service,No internet service,No,No
+7534-BFESC,0.4825457334518432,MEDIUM,ENGAGE,24,76.1,1712.7,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9138-EFSMO,0.1142457425594329,LOW,MONITOR,26,78.95,2034.25,One year,Fiber optic,Bank transfer (automatic),No,No,No,No
+4227-OJHAL,0.1254024654626846,LOW,MONITOR,68,73.0,5163.0,One year,DSL,Credit card (automatic),No,Yes,Yes,No
+7279-NMVJC,0.0546880513429641,LOW,MONITOR,17,19.9,323.15,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+8591-TKMZH,0.0284481365233659,LOW,MONITOR,59,111.1,6555.2,Two year,Fiber optic,Mailed check,Yes,Yes,Yes,No
+9283-LZQOH,0.5113890767097473,MEDIUM,ENGAGE,13,74.4,896.75,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+3594-IVHJZ,0.1178276464343071,LOW,MONITOR,2,20.45,42.45,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+1945-XISKS,0.0067963986657559,LOW,MONITOR,67,19.65,1335.2,Two year,No,Mailed check,No internet service,No internet service,No,No
+4359-INNWN,0.030004471540451,LOW,MONITOR,17,20.05,337.9,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+7649-SIJJF,0.0027720646467059,LOW,MONITOR,71,80.1,5585.4,Two year,DSL,Mailed check,Yes,Yes,Yes,No
+9254-RBFON,0.2346546947956085,LOW,MONITOR,17,98.6,1704.95,One year,Fiber optic,Bank transfer (automatic),Yes,No,No,Yes
+0970-ETWGE,0.845069169998169,HIGH,URGENT,1,89.55,89.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7762-ONLJY,0.0352324582636356,LOW,MONITOR,6,19.7,94.45,One year,No,Mailed check,No internet service,No internet service,No,No
+6710-HSJRD,0.1992287188768386,LOW,MONITOR,61,114.1,7132.15,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+8873-GLDMH,0.6520760655403137,HIGH,URGENT,6,73.85,401.3,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+9907-SWKKF,0.6846010684967041,HIGH,URGENT,1,25.05,25.05,Month-to-month,DSL,Mailed check,No,No,No,Yes
+4658-HCOHW,0.5268333554267883,MEDIUM,ENGAGE,21,102.8,2110.15,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes
+9330-VOFSZ,0.0742717161774635,LOW,MONITOR,60,110.8,6640.7,Two year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+2860-RANUS,0.4463109970092773,MEDIUM,ENGAGE,20,85.8,1727.5,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+6234-PFPXL,0.3600485622882843,MEDIUM,ENGAGE,22,95.9,2234.95,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,No,No
+7205-BAIAD,0.0073486440815031,LOW,MONITOR,40,20.6,827.3,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+3858-VOBET,0.5185242295265198,MEDIUM,ENGAGE,23,74.95,1710.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5103-MHMHY,0.4875013828277588,MEDIUM,ENGAGE,1,45.95,45.95,Month-to-month,DSL,Mailed check,No,No,No,Yes
+6119-SPUDB,0.0148045141249895,LOW,MONITOR,46,38.25,1755.35,Two year,DSL,Mailed check,Yes,Yes,No,No
+9389-ACWBI,0.4467810988426208,MEDIUM,ENGAGE,5,69.95,320.4,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,No
+3454-JFUBC,0.0037016125861555,LOW,MONITOR,68,20.0,1396.0,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+1768-ZAIFU,0.799320638179779,HIGH,URGENT,1,25.2,25.2,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+7017-VFULY,0.1929856538772583,LOW,MONITOR,2,20.1,43.15,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,No
+9221-OTIVJ,0.6938958764076233,HIGH,URGENT,14,104.85,1531.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2482-CZGBB,0.5309726595878601,MEDIUM,ENGAGE,10,70.0,740.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7018-WBJNK,0.4831537306308746,MEDIUM,ENGAGE,13,78.3,1033.95,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+3331-HQDTW,0.1998128294944763,LOW,MONITOR,34,109.8,3587.25,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,Yes
+4695-VADHF,0.1314094066619873,LOW,MONITOR,18,57.45,990.85,Month-to-month,DSL,Electronic check,No,No,No,Yes
+4086-WITJG,0.0014784525847062,LOW,MONITOR,71,19.7,1301.1,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+6297-NOOPG,0.1265099048614502,LOW,MONITOR,70,110.5,7752.05,Two year,Fiber optic,Electronic check,Yes,No,Yes,No
+8777-PVYGU,0.0229258723556995,LOW,MONITOR,52,64.3,3410.6,One year,DSL,Mailed check,No,Yes,Yes,No
+4378-MYPGO,0.1089676171541214,LOW,MONITOR,68,105.25,7173.15,Two year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No
+9313-CDOGY,0.054085087031126,LOW,MONITOR,38,19.6,717.3,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+4121-AGSIN,0.0262450985610485,LOW,MONITOR,58,24.5,1497.9,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+0432-CAJZV,0.6572181582450867,HIGH,URGENT,3,90.7,237.65,Month-to-month,Fiber optic,Mailed check,No,No,No,No
+9097-ZUBYC,0.1795952320098877,LOW,MONITOR,14,48.8,664.4,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No,No
+9638-JIQYA,0.6135432124137878,HIGH,URGENT,2,24.9,49.7,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+1024-GUALD,0.7044128179550171,HIGH,URGENT,1,24.8,24.8,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+8024-XNAFQ,0.0068095210008323,LOW,MONITOR,72,107.4,7748.75,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+7587-RZNME,0.564134418964386,MEDIUM,ENGAGE,3,43.3,123.65,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+1346-UFHAX,0.43675497174263,MEDIUM,ENGAGE,13,80.0,1029.35,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+6374-NTQLP,0.0286749023944139,LOW,MONITOR,72,104.1,7447.7,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+6625-FLENO,0.0145250782370567,LOW,MONITOR,58,20.75,1185.95,Two year,No,Mailed check,No internet service,No internet service,No,No
+7375-WMVMT,0.0129414219409227,LOW,MONITOR,71,95.5,6707.15,Two year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+6910-HADCM,0.8180016875267029,HIGH,URGENT,1,76.35,76.35,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+7401-JIXNM,0.0181445088237524,LOW,MONITOR,54,91.3,4965.0,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+7338-ERIVA,0.025537472218275,LOW,MONITOR,39,45.05,1790.6,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+5376-DEQCP,0.799950897693634,HIGH,URGENT,1,70.6,70.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0909-SELIE,0.0082119647413492,LOW,MONITOR,61,80.8,4860.85,Two year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+5419-KLXBN,0.3165912628173828,MEDIUM,ENGAGE,25,89.15,2257.75,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+0365-TRTPY,0.1501745879650116,LOW,MONITOR,37,91.2,3382.3,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,No
+6712-OAWRH,0.5987653732299805,MEDIUM,ENGAGE,26,91.25,2351.8,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2428-ZMCTB,0.0491387397050857,LOW,MONITOR,10,19.75,208.25,Month-to-month,No,Credit card (automatic),No internet service,No internet service,No,No
+1963-VAUKV,0.2812619209289551,LOW,MONITOR,1,20.4,20.4,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+9381-NDKME,0.3628310859203338,MEDIUM,ENGAGE,24,40.65,933.3,Month-to-month,DSL,Credit card (automatic),No,No,Yes,Yes
+3729-OWRVL,0.2736423909664154,LOW,MONITOR,65,110.35,7246.15,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+0895-LMRSF,0.1729097068309784,LOW,MONITOR,23,64.9,1509.8,One year,DSL,Bank transfer (automatic),No,No,Yes,No
+2676-SSLTO,0.0468555204570293,LOW,MONITOR,49,66.15,3199.0,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+8495-PRWFH,0.3405090868473053,MEDIUM,ENGAGE,42,55.65,2421.75,Month-to-month,DSL,Electronic check,No,No,No,No
+9030-QGZNL,0.0138904023915529,LOW,MONITOR,8,20.85,161.65,Two year,No,Mailed check,No internet service,No internet service,No,No
+9972-NKTFD,0.0819699019193649,LOW,MONITOR,28,54.65,1517.5,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No,No
+7998-WNZEM,0.005823025945574,LOW,MONITOR,71,80.6,5708.2,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+0979-PHULV,0.4849848747253418,MEDIUM,ENGAGE,69,99.45,7007.6,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+6445-TNRXS,0.1079408973455429,LOW,MONITOR,68,114.7,7849.85,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+9586-JGQKH,0.028400432318449,LOW,MONITOR,64,105.4,6794.75,Two year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+3966-HRMZA,0.5405644774436951,MEDIUM,ENGAGE,3,75.05,202.9,Month-to-month,Fiber optic,Mailed check,No,No,No,No
+5498-IBWPI,0.039218358695507,LOW,MONITOR,66,49.4,3251.85,One year,DSL,Credit card (automatic),Yes,No,Yes,No
+6823-SIDFQ,0.0030518409330397,LOW,MONITOR,28,18.25,534.7,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+2323-ARSVR,0.0778584703803062,LOW,MONITOR,67,111.05,7321.05,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+5468-BPMMO,0.0586563050746917,LOW,MONITOR,46,19.6,851.2,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+0486-HECZI,0.3435685932636261,MEDIUM,ENGAGE,55,96.75,5238.9,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+2178-PMGCJ,0.3639701604843139,MEDIUM,ENGAGE,22,69.7,1490.4,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+4660-IRIBM,0.4422083795070648,MEDIUM,ENGAGE,18,87.9,1500.5,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,No
+9674-EHPPG,0.0165341310203075,LOW,MONITOR,46,40.4,1842.7,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+5606-AMZBO,0.4663616716861725,MEDIUM,ENGAGE,10,78.15,765.15,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+0665-XHDJU,0.1604264676570892,LOW,MONITOR,72,99.4,7285.7,Two year,Fiber optic,Electronic check,No,No,Yes,No
+5402-HTOTQ,0.4061668217182159,MEDIUM,ENGAGE,16,55.3,875.35,Month-to-month,DSL,Electronic check,No,No,No,No
+8258-GSTJK,0.8146929144859314,HIGH,URGENT,3,77.0,237.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+3787-TRIAL,0.3966442942619324,MEDIUM,ENGAGE,21,26.05,565.75,Month-to-month,DSL,Electronic check,No,No,Yes,No
+6175-IRFIT,0.50160151720047,MEDIUM,ENGAGE,5,78.75,426.35,Month-to-month,Fiber optic,Mailed check,No,No,No,No
+6317-YPKDH,0.4748122096061706,MEDIUM,ENGAGE,1,29.95,29.95,Month-to-month,DSL,Bank transfer (automatic),No,No,No,Yes
+5692-FPTAH,0.5585282444953918,MEDIUM,ENGAGE,1,45.4,45.4,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+5373-SFODM,0.4573439955711365,MEDIUM,ENGAGE,36,85.25,3132.75,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+0868-VJRDR,0.0330962613224983,LOW,MONITOR,64,104.05,6605.55,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+4079-VTGLK,0.0631246864795684,LOW,MONITOR,30,74.85,2181.75,Two year,DSL,Electronic check,No,No,No,No
+1166-PQLGG,0.0024694274179637,LOW,MONITOR,72,19.55,1463.45,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+5296-BFCYD,0.0074348379857838,LOW,MONITOR,46,20.1,936.85,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+6568-POCUI,0.0300674270838499,LOW,MONITOR,45,95.2,4285.8,Two year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+2839-RFSQE,0.0924843251705169,LOW,MONITOR,2,20.65,38.7,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+2188-SXWVT,0.0517951063811779,LOW,MONITOR,34,55.0,1885.15,One year,DSL,Mailed check,No,Yes,No,No
+8849-GYOKR,0.2901116013526916,LOW,MONITOR,54,106.55,5763.3,One year,Fiber optic,Bank transfer (automatic),No,Yes,No,Yes
+3623-FQBOX,0.073317751288414,LOW,MONITOR,21,19.95,416.4,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+2649-HWLYB,0.046294268220663,LOW,MONITOR,65,76.15,4929.55,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+0599-XNYDO,0.2866450250148773,LOW,MONITOR,20,69.8,1540.35,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+2514-GINMM,0.8964033722877502,HIGH,URGENT,1,79.5,79.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8401-EMUWF,0.1425460129976272,LOW,MONITOR,42,69.4,3058.3,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+5766-ZJYBB,0.3036724925041199,MEDIUM,ENGAGE,1,19.4,19.4,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+2604-IJPDU,0.4457527101039886,MEDIUM,ENGAGE,20,96.55,1901.65,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No
+2501-XWWTZ,0.4072615802288055,MEDIUM,ENGAGE,11,70.2,760.05,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+6370-ZVHDV,0.0067070545628666,LOW,MONITOR,61,25.3,1554.9,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+3027-YNWZU,0.0116368103772401,LOW,MONITOR,64,25.0,1584.8,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+4526-ZJJTM,0.3426831364631653,MEDIUM,ENGAGE,25,88.4,2191.15,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No
+0440-QEXBZ,0.1279881745576858,LOW,MONITOR,44,50.15,2139.1,Month-to-month,DSL,Mailed check,No,No,Yes,No
+0330-IVZHA,0.4629877209663391,MEDIUM,ENGAGE,5,69.95,330.15,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+9758-MFWGD,0.1907981038093567,LOW,MONITOR,48,29.9,1388.75,One year,DSL,Bank transfer (automatic),No,No,No,No
+4229-CZMLL,0.7335166931152344,HIGH,URGENT,6,74.9,469.8,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0742-MOABM,0.2608431279659271,LOW,MONITOR,4,50.05,179.35,Month-to-month,DSL,Mailed check,Yes,No,No,Yes
+4277-BWBML,0.0027784558478742,LOW,MONITOR,72,19.95,1322.85,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+5136-GFPMB,0.2790678143501282,LOW,MONITOR,54,89.4,4869.5,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,No
+7520-HQWJU,0.0536394193768501,LOW,MONITOR,66,67.45,4508.65,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+6304-IJFSQ,0.4718751609325409,MEDIUM,ENGAGE,3,49.9,130.1,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+0297-RBCSG,0.101828932762146,LOW,MONITOR,19,65.35,1231.85,One year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+6013-BHCAW,0.019924284890294,LOW,MONITOR,61,81.0,4976.15,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+4402-FTBXC,0.2067561447620391,LOW,MONITOR,54,89.8,4667.0,Month-to-month,Fiber optic,Mailed check,No,Yes,No,No
+1471-GIQKQ,0.3631471991539001,MEDIUM,ENGAGE,1,49.95,49.95,Month-to-month,DSL,Electronic check,No,No,No,No
+4283-FUTGF,0.6704532504081726,HIGH,URGENT,19,79.85,1471.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9548-LERKT,0.0049610892310738,LOW,MONITOR,24,19.75,483.15,Two year,No,Mailed check,No internet service,No internet service,No,No
+8059-UDZFY,0.3479110300540924,MEDIUM,ENGAGE,33,105.35,3465.05,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+0410-IPFTY,0.4659883677959442,MEDIUM,ENGAGE,31,83.85,2674.15,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+2478-EEWWM,0.5086879134178162,MEDIUM,ENGAGE,59,44.3,2666.75,Month-to-month,DSL,Electronic check,No,No,Yes,No
+4619-EVPHY,0.2014036923646927,LOW,MONITOR,20,91.0,1859.5,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+2277-DJJDL,0.4286361336708069,MEDIUM,ENGAGE,60,99.0,6017.9,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+2911-WDXMV,0.3100712299346924,MEDIUM,ENGAGE,18,80.55,1406.65,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+3639-XJHKQ,0.1935441642999649,LOW,MONITOR,19,60.6,1297.8,Month-to-month,DSL,Electronic check,No,Yes,Yes,No
+8173-RXAYP,0.0054739112965762,LOW,MONITOR,24,19.7,452.55,Two year,No,Mailed check,No internet service,No internet service,No,No
+4537-CIBHB,0.0254391618072986,LOW,MONITOR,9,20.25,172.35,One year,No,Mailed check,No internet service,No internet service,No,No
+5442-BXVND,0.0556865632534027,LOW,MONITOR,33,24.25,838.5,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,No
+2308-STERM,0.1963717341423034,LOW,MONITOR,2,19.4,61.05,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+7159-NOKYQ,0.0892852544784545,LOW,MONITOR,67,93.15,6368.2,Two year,Fiber optic,Electronic check,No,No,Yes,No
+6075-QMNRR,0.1271312832832336,LOW,MONITOR,52,49.75,2535.55,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+3694-GLTJM,0.103156566619873,LOW,MONITOR,5,19.65,92.05,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+9629-NHXFW,0.488185703754425,MEDIUM,ENGAGE,1,19.4,19.4,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+7167-PCEYD,0.0063362312503159,LOW,MONITOR,67,19.8,1311.3,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+2748-MYRVK,0.0756778493523597,LOW,MONITOR,63,99.9,6137.0,One year,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+4223-WOZCM,0.6057875752449036,HIGH,URGENT,2,49.95,107.1,Month-to-month,DSL,Mailed check,No,No,No,No
+6946-LMSQS,0.1869767308235168,LOW,MONITOR,25,89.05,2177.45,One year,Fiber optic,Electronic check,No,Yes,Yes,Yes
+5469-NUJUR,0.0105902161449193,LOW,MONITOR,19,19.95,373.5,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+6388-TABGU,0.0145492265000939,LOW,MONITOR,62,56.15,3487.95,One year,DSL,Bank transfer (automatic),No,Yes,No,No
+1261-FWTTE,0.4228053092956543,MEDIUM,ENGAGE,23,34.65,768.45,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+8590-YFFQO,0.0120317274704575,LOW,MONITOR,70,64.95,4523.25,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+0082-OQIQY,0.3946537375450134,MEDIUM,ENGAGE,29,94.2,2607.6,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+9465-RWMXL,0.5358143448829651,MEDIUM,ENGAGE,32,78.9,2447.95,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2930-UOTMB,0.0558166280388832,LOW,MONITOR,31,65.25,1994.3,Month-to-month,DSL,Credit card (automatic),Yes,Yes,No,Yes
+9128-CPXKI,0.0852375850081443,LOW,MONITOR,59,95.8,5655.45,Two year,Fiber optic,Electronic check,No,No,No,No
+0484-FFVBJ,0.135675847530365,LOW,MONITOR,32,64.85,2010.95,One year,DSL,Bank transfer (automatic),No,No,Yes,No
+1100-DDVRV,0.4129676222801208,MEDIUM,ENGAGE,17,49.8,836.35,Month-to-month,DSL,Mailed check,No,No,Yes,No
+9313-QOLTZ,0.0519500114023685,LOW,MONITOR,26,20.9,518.3,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+3338-CVVEH,0.7889578938484192,HIGH,URGENT,12,94.55,1173.55,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+1131-SUEKT,0.0762818455696106,LOW,MONITOR,61,98.45,6145.2,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+7602-DBTOU,0.0023348527029156,LOW,MONITOR,71,19.6,1416.5,Two year,No,Mailed check,No internet service,No internet service,No,No
+1385-TQOZW,0.0778994932770729,LOW,MONITOR,9,20.45,147.55,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+6892-XPFPU,0.7481932044029236,HIGH,URGENT,24,104.25,2433.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4115-NZRKS,0.6784068942070007,HIGH,URGENT,7,89.15,574.35,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+5514-YQENT,0.128714919090271,LOW,MONITOR,41,111.15,4507.15,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+6319-IEJWJ,0.5066536664962769,MEDIUM,ENGAGE,20,90.2,1776.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8849-AYPTR,0.3289910852909088,MEDIUM,ENGAGE,33,91.25,2964.05,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+5893-PYOLZ,0.0206875018775463,LOW,MONITOR,56,81.8,4534.45,Two year,DSL,Credit card (automatic),Yes,No,Yes,No
+7180-PISOG,0.8563293218612671,HIGH,URGENT,1,74.5,74.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8443-ZRDBZ,0.7617722153663635,HIGH,URGENT,4,76.05,318.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9079-YEXQJ,0.2470847964286804,LOW,MONITOR,54,111.1,6014.85,Month-to-month,Fiber optic,Electronic check,Yes,No,No,Yes
+3780-YVMFA,0.3298863768577575,MEDIUM,ENGAGE,8,68.55,564.35,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+6968-MHOMU,0.2399698495864868,LOW,MONITOR,58,45.0,2689.35,One year,DSL,Credit card (automatic),No,No,Yes,No
+0899-LIIBW,0.5027576684951782,MEDIUM,ENGAGE,34,100.85,3527.3,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+3677-IYRBF,0.8024808168411255,HIGH,URGENT,2,30.4,78.65,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+8393-DLHGA,0.6787209510803223,HIGH,URGENT,25,95.9,2448.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7691-XVTZH,0.0825304165482521,LOW,MONITOR,68,89.95,5974.3,Two year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+5360-LJCNJ,0.3103225827217102,MEDIUM,ENGAGE,71,105.15,7555.0,Two year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+3891-PUQOD,0.6906666159629822,HIGH,URGENT,1,59.2,59.2,Month-to-month,DSL,Electronic check,No,No,No,Yes
+0952-KMEEH,0.6926789283752441,HIGH,URGENT,13,98.15,1230.25,Month-to-month,Fiber optic,Mailed check,No,Yes,No,Yes
+4919-IKATY,0.6183611154556274,HIGH,URGENT,5,84.5,453.75,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+9746-UGFAC,0.0416737981140613,LOW,MONITOR,22,20.85,450.65,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+9108-EQPNQ,0.0126576302573084,LOW,MONITOR,10,26.1,225.55,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+0531-ZZJWQ,0.3729926645755768,MEDIUM,ENGAGE,55,74.0,4052.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+8763-KIAFH,0.0116867627948522,LOW,MONITOR,27,20.55,583.3,One year,No,Mailed check,No internet service,No internet service,Yes,No
+5863-OOKCL,0.014414451085031,LOW,MONITOR,10,18.85,163.2,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+2958-NHPPS,0.0673641562461853,LOW,MONITOR,23,20.85,473.9,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+9530-GRMJG,0.052623800933361,LOW,MONITOR,70,84.1,5979.7,Two year,DSL,Electronic check,Yes,No,Yes,No
+1809-DMJHQ,0.2810450494289398,LOW,MONITOR,5,46.0,221.7,Month-to-month,DSL,Mailed check,No,No,No,Yes
+0164-XAIRP,0.0092465709894895,LOW,MONITOR,24,19.55,470.2,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+2926-JEJJC,0.0341807901859283,LOW,MONITOR,8,20.2,140.95,One year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+1169-WCVAK,0.2430274039506912,LOW,MONITOR,19,88.8,1672.35,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+1217-VASWC,0.3361438810825348,MEDIUM,ENGAGE,43,100.55,4304.0,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+2452-KDRRH,0.457756370306015,MEDIUM,ENGAGE,67,101.4,6841.05,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+6402-EJMWF,0.399602860212326,MEDIUM,ENGAGE,4,55.3,238.5,Month-to-month,DSL,Mailed check,No,No,Yes,No
+7663-CUXZB,0.0922593101859092,LOW,MONITOR,59,113.75,6561.25,Two year,Fiber optic,Electronic check,Yes,Yes,No,No
+4312-KFRXN,0.001041478710249,LOW,MONITOR,72,25.4,1710.9,Two year,No,Mailed check,No internet service,No internet service,No,No
+3011-WQKSZ,0.1623455882072448,LOW,MONITOR,19,20.0,377.55,Month-to-month,No,Electronic check,No internet service,No internet service,Yes,No
+9747-DDZOS,0.6919077038764954,HIGH,URGENT,1,73.5,73.5,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+2091-MJTFX,0.07223841547966,LOW,MONITOR,30,51.2,1561.5,Month-to-month,DSL,Credit card (automatic),Yes,No,No,Yes
+0388-EOPEX,0.5006989240646362,MEDIUM,ENGAGE,2,74.4,139.4,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+3161-ONRWK,0.0105348648503422,LOW,MONITOR,60,65.85,3928.3,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+2587-EKXTS,0.3226395547389984,MEDIUM,ENGAGE,44,111.5,4915.15,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+9752-ZNQUT,0.5912986993789673,MEDIUM,ENGAGE,1,48.6,48.6,Month-to-month,DSL,Electronic check,No,No,Yes,No
+9572-WUKSB,0.4808667004108429,MEDIUM,ENGAGE,3,29.9,92.25,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+3836-FZSDJ,0.0039325593970716,LOW,MONITOR,71,24.85,1901.0,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+8805-JNRAZ,0.3805484771728515,MEDIUM,ENGAGE,2,49.2,103.7,Month-to-month,DSL,Mailed check,No,No,No,No
+3069-SSVSN,0.1443961709737777,LOW,MONITOR,1,25.85,25.85,One year,DSL,Mailed check,No,No,No,No
+8015-IHCGW,0.0114039871841669,LOW,MONITOR,72,115.5,8425.15,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+8132-YPVBX,0.7180435061454773,HIGH,URGENT,6,85.95,514.6,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+0235-KGSLC,0.8178424835205078,HIGH,URGENT,1,85.55,85.55,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+1302-UHBDD,0.4483252167701721,MEDIUM,ENGAGE,20,89.95,1648.45,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+3722-WPXTK,0.8443988561630249,HIGH,URGENT,1,88.35,88.35,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7531-GQHME,0.0618980936706066,LOW,MONITOR,12,20.05,265.45,Month-to-month,No,Credit card (automatic),No internet service,No internet service,No,No
+1335-NTIUC,0.5327776074409485,MEDIUM,ENGAGE,9,24.95,190.25,Month-to-month,DSL,Electronic check,No,No,Yes,No
+9367-TCUYN,0.1237776577472686,LOW,MONITOR,12,20.1,223.6,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+1536-HBSWP,0.3527823984622955,MEDIUM,ENGAGE,1,49.9,49.9,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+8573-JGCZW,0.0468545295298099,LOW,MONITOR,17,19.65,351.55,One year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+2694-CIUMO,0.5680508017539978,MEDIUM,ENGAGE,12,79.55,958.25,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+2027-FECZV,0.6435181498527527,HIGH,URGENT,12,106.7,1253.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9103-TCIHJ,0.1883376985788345,LOW,MONITOR,15,55.7,899.8,Month-to-month,DSL,Mailed check,No,Yes,Yes,Yes
+1545-JFUML,0.0185726471245288,LOW,MONITOR,71,99.0,6994.6,Two year,Fiber optic,Electronic check,No,Yes,Yes,No
+0524-IAVZO,0.6259885430335999,HIGH,URGENT,30,85.0,2624.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5519-TEEUH,0.0272224359214305,LOW,MONITOR,33,20.15,682.15,One year,No,Mailed check,No internet service,No internet service,Yes,No
+6654-QGBZZ,0.4169750809669494,MEDIUM,ENGAGE,1,19.9,19.9,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+2294-DMMUS,0.1080279201269149,LOW,MONITOR,62,70.45,4300.45,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+0017-IUDMW,0.0094597628340125,LOW,MONITOR,72,116.8,8456.75,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+5018-LXQQG,0.0797525718808174,LOW,MONITOR,30,66.3,1923.5,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No
+5808-TOTXO,0.0438240319490432,LOW,MONITOR,3,20.55,57.4,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+1174-FGIFN,0.2084490209817886,LOW,MONITOR,28,90.45,2509.25,One year,Fiber optic,Electronic check,Yes,No,Yes,No
+0730-KOAVE,0.4012045562267303,MEDIUM,ENGAGE,30,94.3,2679.7,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+1218-VKFPE,0.0140791861340403,LOW,MONITOR,12,19.0,233.55,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+5313-FPXWG,0.0329206138849258,LOW,MONITOR,51,24.6,1266.4,One year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+2834-JKOOW,0.0643427148461341,LOW,MONITOR,15,45.9,693.45,One year,DSL,Mailed check,Yes,Yes,No,No
+9430-NKQLY,0.0012011914514005,LOW,MONITOR,72,25.1,1790.8,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+0363-QJVFX,0.2094402313232422,LOW,MONITOR,32,108.15,3432.9,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,Yes,Yes
+1658-TJVOA,0.4916832447052002,MEDIUM,ENGAGE,6,74.1,450.9,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+6685-GBWJZ,0.0318086445331573,LOW,MONITOR,63,70.8,4448.8,One year,DSL,Credit card (automatic),Yes,Yes,No,No
+6328-ZPBGN,0.6851805448532104,HIGH,URGENT,11,95.15,997.65,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+4003-FUSHP,0.1640014946460724,LOW,MONITOR,19,61.55,1093.2,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No
+7690-KPNCU,0.0821126103401184,LOW,MONITOR,64,73.05,4688.65,One year,DSL,Credit card (automatic),No,Yes,Yes,No
+2969-WGHQO,0.0822215229272842,LOW,MONITOR,7,69.45,477.05,One year,DSL,Electronic check,No,Yes,No,No
+1855-CFULU,0.159802496433258,LOW,MONITOR,4,20.05,91.45,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+9788-YTFGE,0.1103569865226745,LOW,MONITOR,7,19.95,147.5,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+8266-VBFQL,0.5883601307868958,MEDIUM,ENGAGE,4,90.4,356.65,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+2325-NBPZG,0.4893803894519806,MEDIUM,ENGAGE,3,74.55,233.65,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+9906-NHHVC,0.0435502491891384,LOW,MONITOR,65,53.5,3517.9,Two year,DSL,Bank transfer (automatic),No,No,Yes,No
+2541-YGPKE,0.0895557925105094,LOW,MONITOR,42,63.7,2763.35,One year,DSL,Credit card (automatic),Yes,Yes,No,No
+5049-MUBWG,0.0585672706365585,LOW,MONITOR,26,75.0,1908.35,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+2332-TODQS,0.0387853011488914,LOW,MONITOR,48,25.05,1171.5,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+4419-UJMUS,0.129994511604309,LOW,MONITOR,69,99.35,6856.45,Two year,Fiber optic,Electronic check,Yes,No,Yes,No
+2233-TXSIU,0.0606336630880832,LOW,MONITOR,17,44.45,792.15,One year,DSL,Credit card (automatic),No,Yes,No,No
+6770-XUAGN,0.5391339659690857,MEDIUM,ENGAGE,1,21.0,21.0,Month-to-month,No,Electronic check,No internet service,No internet service,Yes,Yes
+2919-HBCJO,0.5839616656303406,MEDIUM,ENGAGE,4,76.65,333.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+9508-ILZDG,0.4562861919403076,MEDIUM,ENGAGE,34,96.35,3190.25,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+5442-BHQNG,0.5060715675354004,MEDIUM,ENGAGE,2,70.35,139.25,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+7250-EQKIY,0.473552942276001,MEDIUM,ENGAGE,1,50.45,50.45,Month-to-month,DSL,Mailed check,No,No,No,Yes
+6838-HVLXG,0.0659861266613006,LOW,MONITOR,12,20.3,246.7,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+9767-FFLEM,0.2822521328926086,LOW,MONITOR,38,69.5,2625.25,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+2245-ADZFJ,0.0290159098803997,LOW,MONITOR,31,80.55,2471.6,Two year,DSL,Bank transfer (automatic),Yes,No,No,No
+1150-WFARN,0.1758663356304168,LOW,MONITOR,67,108.75,7156.2,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,Yes
+9054-FOWNV,0.5868120789527893,MEDIUM,ENGAGE,22,88.75,1885.15,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+7997-EASSD,0.0365175828337669,LOW,MONITOR,63,81.2,4965.1,One year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+7560-QJAVJ,0.0385243445634841,LOW,MONITOR,70,79.6,5589.45,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+2668-TZSPS,0.2446228265762329,LOW,MONITOR,1,20.45,20.45,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+9139-WQQDY,0.1117248013615608,LOW,MONITOR,49,100.45,4941.8,One year,Fiber optic,Mailed check,No,No,No,Yes
+6726-NNFWD,0.0277495607733726,LOW,MONITOR,71,89.45,6435.25,Two year,Fiber optic,Credit card (automatic),No,No,No,No
+9330-DHBFL,0.0342787764966487,LOW,MONITOR,23,66.25,1533.8,One year,DSL,Mailed check,Yes,Yes,Yes,No
+5727-MYATE,0.0015458945417776,LOW,MONITOR,72,90.8,6397.6,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+2824-DXNKN,0.0087167229503393,LOW,MONITOR,72,71.45,5025.85,Two year,DSL,Bank transfer (automatic),No,Yes,Yes,No
+6166-ILMNY,0.4596269726753235,MEDIUM,ENGAGE,2,69.75,144.55,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+5236-XMZJY,0.1544869989156723,LOW,MONITOR,42,59.65,2536.55,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,No
+1709-EJDOX,0.0094590215012431,LOW,MONITOR,47,19.75,948.9,Two year,No,Mailed check,No internet service,No internet service,No,No
+4962-CHQPW,0.0137337865307927,LOW,MONITOR,29,19.85,535.05,One year,No,Mailed check,No internet service,No internet service,No,No
+0301-FIDRB,0.0037872509565204,LOW,MONITOR,72,63.8,4684.3,Two year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+1820-TQVEV,0.8808337450027466,HIGH,URGENT,1,69.55,69.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9115-YQHGA,0.1147270277142524,LOW,MONITOR,40,51.1,2092.9,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+1541-ETJZO,0.3655674159526825,MEDIUM,ENGAGE,1,62.05,62.05,Month-to-month,DSL,Mailed check,Yes,No,No,Yes
+6230-BSUXY,0.8693547248840332,HIGH,URGENT,1,85.0,85.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6797-LNAQX,0.0623066835105419,LOW,MONITOR,70,98.3,6859.5,Two year,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+9588-YRFHY,0.0066676107235252,LOW,MONITOR,49,19.9,1022.6,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+1092-GANHU,0.3575444519519806,MEDIUM,ENGAGE,17,76.65,1313.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5951-AOFIH,0.1269087195396423,LOW,MONITOR,33,66.4,2245.4,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+7029-RPUAV,0.5655182600021362,MEDIUM,ENGAGE,17,100.45,1622.45,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+4700-UBQMV,0.1072306483983993,LOW,MONITOR,21,75.9,1549.75,One year,DSL,Bank transfer (automatic),No,Yes,Yes,No
+3594-UVONA,0.1274088472127914,LOW,MONITOR,35,85.95,3110.1,One year,DSL,Credit card (automatic),Yes,Yes,Yes,Yes
+7750-EYXWZ,0.1580797582864761,LOW,MONITOR,12,60.65,743.3,One year,DSL,Electronic check,Yes,No,No,No
+7054-ENNGU,0.1378199011087417,LOW,MONITOR,9,50.85,466.6,Month-to-month,DSL,Mailed check,No,No,No,No
+0402-OAMEN,0.0010519049828872,LOW,MONITOR,72,24.45,1709.1,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+2195-VVRJF,0.1685435771942138,LOW,MONITOR,18,59.1,1011.05,Month-to-month,DSL,Credit card (automatic),No,Yes,Yes,No
+8819-ZBYNA,0.2791418135166168,LOW,MONITOR,58,109.1,6393.65,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+7748-UMTRK,0.5209705829620361,MEDIUM,ENGAGE,30,101.3,2974.5,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+1741-WTPON,0.0271019991487264,LOW,MONITOR,56,115.85,6567.9,Two year,Fiber optic,Mailed check,Yes,Yes,No,No
+7209-JCUDS,0.800169050693512,HIGH,URGENT,10,94.9,1048.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2485-ITVKB,0.7702628970146179,HIGH,URGENT,2,35.1,68.75,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+9648-BCHKM,0.0111316824331879,LOW,MONITOR,18,24.65,471.35,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+0743-HRVFF,0.145504429936409,LOW,MONITOR,51,56.15,2898.95,One year,DSL,Electronic check,Yes,No,Yes,No
+2522-AHJXR,0.1117058023810386,LOW,MONITOR,60,109.45,6572.85,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+9143-CANJF,0.109224833548069,LOW,MONITOR,24,55.15,1319.85,Month-to-month,DSL,Electronic check,Yes,Yes,No,No
+1444-VVSGW,0.1708391010761261,LOW,MONITOR,70,115.65,7968.85,One year,Fiber optic,Credit card (automatic),Yes,Yes,No,Yes
+6898-MDLZW,0.1486572623252868,LOW,MONITOR,12,53.75,648.65,Month-to-month,DSL,Mailed check,Yes,No,Yes,No
+0074-HDKDG,0.0407945252954959,LOW,MONITOR,25,61.6,1611.0,One year,DSL,Bank transfer (automatic),No,Yes,Yes,No
+3982-JGSFD,0.022421296685934,LOW,MONITOR,36,20.35,695.85,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+7928-VJYAB,0.3474543392658233,MEDIUM,ENGAGE,11,90.6,1020.2,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+1522-VVDMG,0.6269772052764893,HIGH,URGENT,7,89.75,608.8,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes
+2665-NPTGL,0.5644702911376953,MEDIUM,ENGAGE,26,98.1,2510.7,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+8728-SKJLR,0.3543227910995483,MEDIUM,ENGAGE,41,74.25,3089.1,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+7733-UDMTP,0.3833678960800171,MEDIUM,ENGAGE,57,55.0,3094.05,Month-to-month,DSL,Electronic check,No,No,Yes,No
+0431-APWVY,0.2115445137023925,LOW,MONITOR,28,90.1,2598.95,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+5081-NWSUP,0.1584292203187942,LOW,MONITOR,10,64.9,685.55,One year,DSL,Mailed check,Yes,No,No,No
+2746-DIJLO,0.1162558868527412,LOW,MONITOR,41,56.3,2364.0,One year,DSL,Credit card (automatic),No,No,Yes,No
+7277-OZCGZ,0.2758927941322326,LOW,MONITOR,22,89.05,1886.25,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No
+5236-PERKL,0.0799363404512405,LOW,MONITOR,57,112.95,6465.0,Two year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,Yes
+2788-CJQAQ,0.028471952304244,LOW,MONITOR,13,19.45,270.2,One year,No,Mailed check,No internet service,No internet service,No,No
+3096-WPXBT,0.0903236344456672,LOW,MONITOR,61,100.7,6018.65,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+9962-BFPDU,0.4345732033252716,MEDIUM,ENGAGE,1,20.05,20.05,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+2892-GESUL,0.0167676750570535,LOW,MONITOR,18,19.35,309.25,Two year,No,Mailed check,No internet service,No internet service,No,No
+9741-YLNTD,0.7047080993652344,HIGH,URGENT,6,87.95,522.35,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+1205-WNWPJ,0.2418293356895446,LOW,MONITOR,7,59.5,415.95,Month-to-month,DSL,Mailed check,Yes,No,Yes,Yes
+3173-NVMPX,0.3209587335586548,MEDIUM,ENGAGE,9,55.3,501.2,Month-to-month,DSL,Mailed check,No,No,Yes,No
+9661-MHUMO,0.401272177696228,MEDIUM,ENGAGE,1,49.25,49.25,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,Yes
+6000-APYLU,0.6090626120567322,HIGH,URGENT,9,80.8,713.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0048-PIHNL,0.0155095886439085,LOW,MONITOR,49,20.45,900.9,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+9420-LOJKX,0.7478093504905701,HIGH,URGENT,15,99.1,1426.4,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,Yes
+7061-OVMIM,0.0294904522597789,LOW,MONITOR,30,19.55,608.5,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+5671-RQRLP,0.1539641469717025,LOW,MONITOR,70,75.65,5411.4,Two year,Fiber optic,Credit card (automatic),No,No,Yes,No
+5129-JLPIS,0.6721816062927246,HIGH,URGENT,25,105.5,2686.05,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No
+5170-PTRKA,0.016435083001852,LOW,MONITOR,49,35.8,1782.0,One year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+4819-HJPIW,0.1990300565958023,LOW,MONITOR,18,25.15,476.8,Month-to-month,DSL,Mailed check,No,No,No,No
+8780-RSYYU,0.035099696367979,LOW,MONITOR,25,19.2,532.1,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+2335-GSODA,0.0129435239359736,LOW,MONITOR,23,40.1,857.75,Two year,DSL,Mailed check,Yes,Yes,No,No
+5696-CEIQJ,0.046240858733654,LOW,MONITOR,67,103.15,6895.5,Two year,Fiber optic,Bank transfer (automatic),Yes,No,No,No
+6169-PPETC,0.0061162123456597,LOW,MONITOR,35,20.5,759.35,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+4237-RLAQD,0.5831454396247864,MEDIUM,ENGAGE,1,45.85,45.85,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+7359-WWYJV,0.0140174133703112,LOW,MONITOR,72,114.45,8375.05,Two year,Fiber optic,Credit card (automatic),Yes,Yes,No,No
+8620-RJPZN,0.3232258856296539,MEDIUM,ENGAGE,1,20.7,20.7,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+7426-WEIJX,0.151561364531517,LOW,MONITOR,60,80.95,4859.1,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+7629-WIXZF,0.1508035808801651,LOW,MONITOR,7,59.1,369.25,One year,DSL,Electronic check,No,Yes,Yes,No
+2616-FLVQC,0.0190593190491199,LOW,MONITOR,64,19.55,1240.15,Two year,No,Mailed check,No internet service,No internet service,No,No
+9163-GHAYE,0.1927736699581146,LOW,MONITOR,15,48.85,736.8,Month-to-month,DSL,Electronic check,No,No,No,No
+4464-JCOLN,0.0272847712039947,LOW,MONITOR,2,19.85,35.9,One year,No,Mailed check,No internet service,No internet service,No,Yes
+2971-SGAFL,0.3326058685779571,MEDIUM,ENGAGE,13,78.75,995.35,Month-to-month,DSL,Electronic check,No,Yes,Yes,No
+4735-ASGMA,0.7221845388412476,HIGH,URGENT,26,98.35,2515.3,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5245-VDBUR,0.0301053710281848,LOW,MONITOR,52,35.45,1958.95,One year,DSL,Mailed check,No,Yes,No,No
+1493-AMTIE,0.3225859105587005,MEDIUM,ENGAGE,1,20.2,20.2,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,Yes,Yes
+1112-CUNAO,0.5739994645118713,MEDIUM,ENGAGE,15,89.85,1424.95,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+7571-YXDAD,0.565121054649353,MEDIUM,ENGAGE,2,74.9,147.15,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,Yes
+8714-EUHJO,0.4036974906921386,MEDIUM,ENGAGE,31,91.15,2995.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9040-KZVWO,0.0541134141385555,LOW,MONITOR,26,75.5,2018.1,One year,Fiber optic,Bank transfer (automatic),No,No,No,No
+6713-OKOMC,0.166929230093956,LOW,MONITOR,10,29.75,301.9,Month-to-month,DSL,Mailed check,No,Yes,No,No
+8749-CLJXC,0.3640280961990356,MEDIUM,ENGAGE,1,20.05,20.05,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+4713-LZDRV,0.7309952974319458,HIGH,URGENT,2,79.6,195.05,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6598-RFFVI,0.0132678803056478,LOW,MONITOR,2,19.3,28.3,One year,No,Credit card (automatic),No internet service,No internet service,No,Yes
+7470-MCQTK,0.4497111141681671,MEDIUM,ENGAGE,13,48.75,633.4,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,Yes
+5524-KHNJP,0.1283966600894928,LOW,MONITOR,33,74.75,2453.3,One year,DSL,Credit card (automatic),No,Yes,No,No
+1707-HABPF,0.0710489451885223,LOW,MONITOR,46,91.3,4126.35,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+4581-LNWUM,0.4524963796138763,MEDIUM,ENGAGE,13,49.15,649.4,Month-to-month,DSL,Electronic check,No,No,No,No
+9710-ZUSHQ,0.2640660405158996,LOW,MONITOR,37,106.75,4056.75,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,Yes,Yes
+1697-LYYYX,0.0070272935554385,LOW,MONITOR,61,19.1,1143.8,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+4013-GUXND,0.4434797167778015,MEDIUM,ENGAGE,1,20.8,20.8,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+5022-JNQEQ,0.5564712882041931,MEDIUM,ENGAGE,9,75.85,647.5,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+4983-CCWMC,0.5124602913856506,MEDIUM,ENGAGE,3,69.6,207.4,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+6345-FZOQH,0.0039275349117815,LOW,MONITOR,69,19.9,1363.45,Two year,No,Mailed check,No internet service,No internet service,No,No
+0962-CQPWQ,0.0059270979836583,LOW,MONITOR,62,20.3,1296.15,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+5495-GPSRW,0.0072791231796145,LOW,MONITOR,20,19.7,419.4,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+2252-JHJGE,0.285249799489975,LOW,MONITOR,61,104.0,6363.45,One year,Fiber optic,Electronic check,No,Yes,No,No
+7356-AYNJP,0.1346253305673599,LOW,MONITOR,4,23.9,97.5,One year,No,Electronic check,No internet service,No internet service,No,No
+2019-HDCZY,0.1312808990478515,LOW,MONITOR,63,102.6,6296.75,Two year,Fiber optic,Electronic check,No,No,No,No
+8582-KRHPJ,0.1759038865566253,LOW,MONITOR,50,35.0,1782.4,Month-to-month,DSL,Mailed check,No,Yes,Yes,No
+2867-UIMSS,0.8186413645744324,HIGH,URGENT,1,80.5,80.5,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+3487-EARAT,0.142052337527275,LOW,MONITOR,70,74.1,5222.3,One year,DSL,Credit card (automatic),Yes,Yes,No,No
+9926-PJHDQ,0.056659460067749,LOW,MONITOR,72,76.8,5468.45,Two year,DSL,Bank transfer (automatic),No,No,Yes,No
+0289-IVARM,0.0798993334174156,LOW,MONITOR,35,60.55,1982.6,Month-to-month,DSL,Electronic check,No,Yes,No,No
+4672-FOTSD,0.2140000760555267,LOW,MONITOR,12,67.25,832.3,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No
+6198-PNNSZ,0.2414563298225402,LOW,MONITOR,56,109.8,6109.65,One year,Fiber optic,Bank transfer (automatic),No,Yes,No,No
+7603-USHJS,0.5212302803993225,MEDIUM,ENGAGE,12,73.75,871.4,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+6784-XYJAE,0.0682831481099128,LOW,MONITOR,36,55.8,1941.5,One year,DSL,Electronic check,No,No,No,No
+3858-XHYJO,0.2791030406951904,LOW,MONITOR,40,105.75,4228.55,One year,Fiber optic,Bank transfer (automatic),No,Yes,No,No
+1087-UDSIH,0.1859191507101059,LOW,MONITOR,3,19.6,59.75,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,Yes
+7251-LJBQN,0.3412961661815643,MEDIUM,ENGAGE,40,103.75,4188.4,One year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+3200-MNQTF,0.02024064399302,LOW,MONITOR,67,70.9,4677.1,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+9359-UGBTK,0.1003622934222221,LOW,MONITOR,67,72.35,4991.5,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+8160-HOWOX,0.3792655766010284,MEDIUM,ENGAGE,7,66.85,458.1,Month-to-month,DSL,Electronic check,No,No,Yes,No
+0258-NOKBL,0.4611228108406067,MEDIUM,ENGAGE,3,90.4,268.45,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+2800-QQUSO,0.7127715349197388,HIGH,URGENT,42,100.3,4222.95,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+2129-ALKBS,0.076360285282135,LOW,MONITOR,40,26.2,1077.5,Month-to-month,No,Electronic check,No internet service,No internet service,Yes,No
+9972-VAFJJ,0.118093654513359,LOW,MONITOR,53,94.0,4871.45,One year,Fiber optic,Electronic check,Yes,No,Yes,No
+4693-VWVBO,0.159424751996994,LOW,MONITOR,3,19.55,61.05,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+6969-MVBAI,0.824020266532898,HIGH,URGENT,9,90.1,816.8,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+4821-WQOYN,0.0013479199260473,LOW,MONITOR,72,20.1,1326.25,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+6769-DYBQN,0.3903897106647491,MEDIUM,ENGAGE,46,85.0,3969.4,Month-to-month,Fiber optic,Electronic check,No,Yes,No,Yes
+4018-PPNDW,0.0155178755521774,LOW,MONITOR,61,24.1,1551.6,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+6288-CHQJB,0.0079082529991865,LOW,MONITOR,54,69.95,3871.85,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+4905-JEFDW,0.3021399080753326,MEDIUM,ENGAGE,11,41.6,470.6,One year,DSL,Electronic check,No,No,Yes,Yes
+0559-CKHUS,0.0091866813600063,LOW,MONITOR,29,19.55,521.8,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+2659-VXMWZ,0.1130833476781845,LOW,MONITOR,67,111.3,7482.1,One year,Fiber optic,Electronic check,No,Yes,Yes,Yes
+6559-RAKOZ,0.3384272456169128,MEDIUM,ENGAGE,49,97.95,4917.9,One year,Fiber optic,Electronic check,Yes,No,Yes,No
+8809-XKHMD,0.0045447354204952,LOW,MONITOR,72,100.55,7325.1,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+6365-HITVU,0.0031750451307743,LOW,MONITOR,71,87.25,6328.7,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+0134-XWXCE,0.189292773604393,LOW,MONITOR,44,74.85,3268.05,One year,DSL,Bank transfer (automatic),Yes,No,No,No
+9720-JJJOR,0.0664751306176185,LOW,MONITOR,41,60.3,2511.3,One year,DSL,Bank transfer (automatic),No,Yes,Yes,No
+2782-LFZVW,0.2945570051670074,LOW,MONITOR,11,58.95,601.6,Month-to-month,DSL,Mailed check,No,No,Yes,No
+6112-KTHFQ,0.053635898977518,LOW,MONITOR,13,19.3,279.3,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+9220-ZNKJI,0.0310183335095644,LOW,MONITOR,55,88.8,4805.3,Two year,Fiber optic,Credit card (automatic),Yes,No,No,No
+9820-RMCQV,0.1570712029933929,LOW,MONITOR,11,48.55,501.0,Month-to-month,DSL,Credit card (automatic),No,Yes,No,Yes
+9013-AQORL,0.1569051444530487,LOW,MONITOR,48,45.55,2108.35,Month-to-month,DSL,Credit card (automatic),No,No,No,No
+2040-OBMLJ,0.0883977487683296,LOW,MONITOR,31,81.7,2548.65,One year,Fiber optic,Credit card (automatic),Yes,No,No,No
+5574-NXZIU,0.094820849597454,LOW,MONITOR,63,109.2,7049.75,Two year,Fiber optic,Credit card (automatic),Yes,Yes,No,No
+5446-DKWYW,0.101274661719799,LOW,MONITOR,61,65.2,3965.05,One year,DSL,Electronic check,No,No,Yes,No
+0480-KYJVA,0.0008530802442692,LOW,MONITOR,72,24.25,1784.5,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+1074-AMIOH,0.3657317757606506,MEDIUM,ENGAGE,53,108.25,5935.1,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+0015-UOCOJ,0.3117440640926361,MEDIUM,ENGAGE,7,48.2,340.35,Month-to-month,DSL,Electronic check,No,Yes,Yes,No
+0256-LTHVJ,0.4368328750133514,MEDIUM,ENGAGE,28,81.05,2227.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4547-LYTDD,0.4831045567989349,MEDIUM,ENGAGE,16,72.65,1194.3,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+1077-HUUJM,0.6239022016525269,HIGH,URGENT,7,71.05,472.65,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2041-JIJCI,0.5483971238136292,MEDIUM,ENGAGE,5,64.0,370.25,Month-to-month,DSL,Electronic check,No,No,Yes,No
+1555-HAPSU,0.0039731096476316,LOW,MONITOR,71,23.9,1663.5,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+4323-SADQS,0.2631914615631103,LOW,MONITOR,7,34.5,279.25,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,Yes
+3292-PBZEJ,0.7750110626220703,HIGH,URGENT,11,111.4,1183.05,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+6203-HBZPA,0.0110040595754981,LOW,MONITOR,52,63.9,3334.95,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+9755-JHNMN,0.0184220839291811,LOW,MONITOR,49,67.4,3306.85,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+7369-TRPFD,0.0047563193365931,LOW,MONITOR,19,18.8,279.2,One year,No,Mailed check,No internet service,No internet service,No,No
+9878-TNQGW,0.6771000027656555,HIGH,URGENT,2,80.95,171.15,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2279-AXJJK,0.2361556142568588,LOW,MONITOR,52,95.65,5088.4,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+5016-IBERQ,0.4396388530731201,MEDIUM,ENGAGE,23,84.25,1968.1,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+1016-DJTSV,0.5368213653564453,MEDIUM,ENGAGE,8,69.7,572.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+8433-WPJTV,0.1382872015237808,LOW,MONITOR,65,103.9,6767.1,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+8903-XEBGX,0.6300159692764282,HIGH,URGENT,2,55.3,108.65,Month-to-month,DSL,Electronic check,No,No,Yes,No
+2632-TACXW,0.0124182337895035,LOW,MONITOR,62,23.65,1416.75,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+7952-OBOYL,0.7199952006340027,HIGH,URGENT,3,89.85,244.45,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,No
+1470-PSXNM,0.173048123717308,LOW,MONITOR,49,93.65,4520.15,One year,Fiber optic,Electronic check,No,No,Yes,No
+6227-HWPWX,0.1869845539331436,LOW,MONITOR,15,69.0,994.8,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+5924-SNGKP,0.0142316203564405,LOW,MONITOR,41,20.25,865.0,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+8818-DOPVL,0.5501582026481628,MEDIUM,ENGAGE,46,104.45,4863.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+4521-WFJAI,0.018447196111083,LOW,MONITOR,56,25.95,1444.05,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+4724-WXVWF,0.2354577183723449,LOW,MONITOR,48,95.4,4445.3,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No
+3717-OEAUQ,0.4760361015796661,MEDIUM,ENGAGE,2,70.7,129.2,Month-to-month,Fiber optic,Mailed check,No,No,No,No
+8165-ZJRNM,0.0024309544824063,LOW,MONITOR,72,23.75,1679.25,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+7838-LAZFO,0.0767582505941391,LOW,MONITOR,45,78.8,3597.5,One year,DSL,Bank transfer (automatic),No,Yes,No,No
+0513-RBGPE,0.0225268751382827,LOW,MONITOR,37,62.8,2278.75,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+7251-XFOIL,0.1111204400658607,LOW,MONITOR,61,89.2,5500.6,Month-to-month,Fiber optic,Mailed check,No,No,No,No
+2525-GVKQU,0.0154449874535202,LOW,MONITOR,60,20.6,1093.0,Two year,No,Mailed check,No internet service,No internet service,No,No
+7579-OOPEC,0.4713049530982971,MEDIUM,ENGAGE,2,50.15,115.1,Month-to-month,DSL,Credit card (automatic),No,No,No,Yes
+3795-GWTRD,0.0143008101731538,LOW,MONITOR,63,75.55,4707.85,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+4750-ZRXIU,0.8538305163383484,HIGH,URGENT,4,84.6,360.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5445-PZWGX,0.0940784513950347,LOW,MONITOR,62,102.0,6529.25,One year,Fiber optic,Electronic check,Yes,Yes,No,Yes
+0516-UXRMT,0.0726977437734603,LOW,MONITOR,62,92.05,5755.8,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+0727-BNRLG,0.0590284913778305,LOW,MONITOR,69,97.65,6743.55,Two year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+3932-CMDTD,0.389180839061737,MEDIUM,ENGAGE,4,105.65,443.9,One year,Fiber optic,Electronic check,Yes,No,Yes,Yes
+1264-FUHCX,0.1319715827703476,LOW,MONITOR,49,56.3,2780.6,One year,DSL,Credit card (automatic),Yes,No,Yes,No
+6194-HBGQN,0.0421015322208404,LOW,MONITOR,51,81.15,4126.2,One year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+4524-QCSSM,0.3701606392860412,MEDIUM,ENGAGE,26,44.65,1156.55,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+4570-QHXHL,0.3563688099384308,MEDIUM,ENGAGE,9,43.75,405.7,Month-to-month,DSL,Electronic check,No,No,Yes,No
+2972-YDYUW,0.1307253241539001,LOW,MONITOR,57,94.7,5468.95,One year,Fiber optic,Electronic check,Yes,No,No,No
+2061-VVFST,0.0845284312963485,LOW,MONITOR,37,19.5,805.2,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,No
+6874-SGLHU,0.2711306810379028,LOW,MONITOR,30,97.0,3021.3,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+9844-FELAJ,0.1872235685586929,LOW,MONITOR,70,107.9,7475.85,One year,Fiber optic,Electronic check,Yes,No,Yes,No
+1902-XBTFB,0.5060303807258606,MEDIUM,ENGAGE,22,89.4,2001.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9039-RBEEE,0.1367104053497314,LOW,MONITOR,39,48.95,1880.85,Month-to-month,DSL,Credit card (automatic),Yes,Yes,Yes,Yes
+9369-XFEHK,0.4173190295696258,MEDIUM,ENGAGE,33,80.6,2656.5,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+3680-CTHUH,0.1903900951147079,LOW,MONITOR,60,116.6,7049.5,One year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+3679-XASPY,0.3690277338027954,MEDIUM,ENGAGE,1,19.45,19.45,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+9089-UOWJG,0.2409432232379913,LOW,MONITOR,12,58.35,740.55,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+1574-DYCWE,0.0124816270545125,LOW,MONITOR,51,19.95,1028.75,Two year,No,Mailed check,No internet service,No internet service,No,No
+9779-DPNEJ,0.4744210541248321,MEDIUM,ENGAGE,22,80.15,1790.65,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2967-MXRAV,0.0166242439299821,LOW,MONITOR,1,18.8,18.8,One year,No,Mailed check,No internet service,No internet service,No,No
+0327-WFZSY,0.2291468530893325,LOW,MONITOR,39,100.0,3835.55,One year,Fiber optic,Electronic check,No,No,No,No
+1731-TVIUK,0.8024675250053406,HIGH,URGENT,4,93.5,362.2,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes
+7666-WKRON,0.0902890264987945,LOW,MONITOR,39,80.45,3201.55,Two year,Fiber optic,Electronic check,Yes,No,Yes,Yes
+3865-ZYKAD,0.233717679977417,LOW,MONITOR,69,84.9,5785.65,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+1465-LNTLJ,0.1996653825044632,LOW,MONITOR,8,64.4,581.7,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No
+2696-RZVZW,0.0059323171153664,LOW,MONITOR,68,25.05,1629.2,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+0685-MLYYM,0.5693531036376953,MEDIUM,ENGAGE,2,70.75,154.85,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+2778-OCLGR,0.3277626633644104,MEDIUM,ENGAGE,24,39.1,971.3,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,Yes
+3982-XWFZQ,0.2573014795780182,LOW,MONITOR,42,50.25,2203.65,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+4759-PXTAN,0.0889718011021614,LOW,MONITOR,59,80.1,4693.2,One year,DSL,Electronic check,Yes,No,Yes,No
+1448-PWKYE,0.8418759107589722,HIGH,URGENT,1,80.0,80.0,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+8741-LQOBK,0.1388548165559768,LOW,MONITOR,46,35.05,1620.25,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,No
+8650-RHRKE,0.6230511665344238,HIGH,URGENT,4,29.65,118.5,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+7266-GSSJX,0.0745675712823867,LOW,MONITOR,11,20.45,250.8,Month-to-month,No,Electronic check,No internet service,No internet service,Yes,No
+1265-HVPZB,0.0329011417925357,LOW,MONITOR,59,66.4,3958.2,One year,DSL,Credit card (automatic),No,Yes,No,No
+9640-ZSLDC,0.1131705418229103,LOW,MONITOR,53,60.6,3297.0,One year,DSL,Credit card (automatic),No,No,No,No
+0988-JRWWP,0.5518218874931335,MEDIUM,ENGAGE,3,54.2,140.4,Month-to-month,DSL,Electronic check,No,No,Yes,No
+1926-QUZNN,0.0014583158772438,LOW,MONITOR,72,25.25,1841.2,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+9025-ZRPVR,0.0500741191208362,LOW,MONITOR,9,18.95,185.6,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,Yes
+6527-PZFPV,0.0245007164776325,LOW,MONITOR,24,20.8,469.65,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+7460-ITWWP,0.2908144295215606,LOW,MONITOR,45,86.1,3861.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+1530-ZTDOZ,0.1762210875749588,LOW,MONITOR,49,40.65,2070.75,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,No
+4785-FCIFB,0.0085863098502159,LOW,MONITOR,61,24.4,1417.9,Two year,No,Mailed check,No internet service,No internet service,No,No
+9717-QEBGU,0.598412036895752,MEDIUM,ENGAGE,2,70.3,144.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+0876-WDUUZ,0.7016802430152893,HIGH,URGENT,5,85.4,425.9,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,Yes
+7881-EVUAD,0.5577644109725952,MEDIUM,ENGAGE,2,42.6,72.4,Month-to-month,DSL,Electronic check,No,Yes,Yes,Yes
+4002-BQWPQ,0.1418822407722473,LOW,MONITOR,25,81.75,2028.8,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No
+6377-WHAOX,0.5259583592414856,MEDIUM,ENGAGE,60,106.15,6411.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+5027-YOCXN,0.1505604684352874,LOW,MONITOR,51,110.05,5686.4,One year,Fiber optic,Credit card (automatic),Yes,Yes,No,No
+8450-JOVAH,0.3111979961395263,MEDIUM,ENGAGE,2,56.7,113.55,Month-to-month,DSL,Mailed check,No,Yes,No,Yes
+6646-QVXLR,0.288534551858902,LOW,MONITOR,62,103.75,6383.35,One year,Fiber optic,Electronic check,No,No,Yes,Yes
+0254-KCJGT,0.0822485089302063,LOW,MONITOR,52,81.4,4354.45,One year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+3442-ZHHCC,0.1354402601718902,LOW,MONITOR,68,76.9,5023.0,One year,DSL,Credit card (automatic),No,Yes,Yes,No
+9167-APMXZ,0.4387823641300201,MEDIUM,ENGAGE,22,84.15,1821.95,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+0616-ATFGB,0.7673169374465942,HIGH,URGENT,1,25.05,25.05,Month-to-month,DSL,Electronic check,No,No,No,Yes
+7273-TEFQD,0.7669734358787537,HIGH,URGENT,3,41.15,132.2,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+8245-UMPYT,0.7250930070877075,HIGH,URGENT,16,96.4,1581.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6022-UGGSO,0.4984864592552185,MEDIUM,ENGAGE,32,74.4,2276.95,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6292-TOSSS,0.024798372760415,LOW,MONITOR,50,24.9,1195.25,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+5207-PLSTK,0.4808613955974579,MEDIUM,ENGAGE,1,48.75,48.75,Month-to-month,DSL,Mailed check,No,Yes,Yes,No
+3908-BLSYF,0.6560922861099243,HIGH,URGENT,6,83.9,497.55,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+4317-VTEOA,0.6302659511566162,HIGH,URGENT,1,50.75,50.75,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+0625-AFOHS,0.0046925605274736,LOW,MONITOR,29,20.2,558.8,Two year,No,Mailed check,No internet service,No internet service,No,No
+4667-OHGKG,0.4175122678279876,MEDIUM,ENGAGE,1,19.3,19.3,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,Yes
+2386-OWURY,0.202664166688919,LOW,MONITOR,58,95.3,5817.7,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+3780-DDGSE,0.1542630642652511,LOW,MONITOR,35,76.05,2747.2,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+1047-RNXZV,0.0084978612139821,LOW,MONITOR,43,19.55,876.15,Two year,No,Mailed check,No internet service,No internet service,No,No
+3926-YZVVX,0.0419391654431819,LOW,MONITOR,41,50.05,2029.05,One year,DSL,Bank transfer (automatic),Yes,No,No,No
+4742-TXUEX,0.0072354525327682,LOW,MONITOR,47,19.3,890.5,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+8709-KRDVL,0.5035547614097595,MEDIUM,ENGAGE,33,100.0,3320.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+0397-ZXWQF,0.0042692050337791,LOW,MONITOR,67,20.5,1430.95,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+3910-MRQOY,0.0037909585516899,LOW,MONITOR,72,19.4,1496.45,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+2511-MORQY,0.068388432264328,LOW,MONITOR,50,54.9,2614.1,One year,DSL,Bank transfer (automatic),No,No,No,No
+4039-PIMHX,0.1325490027666092,LOW,MONITOR,49,49.8,2398.4,Two year,DSL,Mailed check,No,No,No,No
+8083-YTZES,0.7465620040893555,HIGH,URGENT,4,74.35,265.35,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+1346-PJWTK,0.0732522159814834,LOW,MONITOR,61,94.15,5731.85,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,No
+3750-YHRYO,0.0181436706334352,LOW,MONITOR,7,20.65,150.0,One year,No,Mailed check,No internet service,No internet service,No,No
+1236-WFCDV,0.4209160506725311,MEDIUM,ENGAGE,14,90.45,1266.1,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,Yes
+5949-HGVJL,0.1255550533533096,LOW,MONITOR,26,73.05,1959.5,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+9112-WSNPU,0.5482454299926758,MEDIUM,ENGAGE,35,70.55,2419.0,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+1360-JYXKQ,0.2453590482473373,LOW,MONITOR,54,99.1,5437.1,One year,Fiber optic,Electronic check,Yes,No,Yes,No
+3585-ISXZP,0.7040929198265076,HIGH,URGENT,8,95.65,778.1,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+8380-PEFPE,0.8071134686470032,HIGH,URGENT,1,71.65,71.65,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9402-ROUMJ,0.1263141334056854,LOW,MONITOR,67,100.25,6689.0,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+4335-UPJSI,0.0056530344299972,LOW,MONITOR,24,19.75,498.1,Two year,No,Mailed check,No internet service,No internet service,No,No
+6096-EGVTU,0.0149694010615348,LOW,MONITOR,64,24.9,1595.5,One year,No,Mailed check,No internet service,No internet service,No,No
+8988-ECPJR,0.4545907080173492,MEDIUM,ENGAGE,34,79.6,2718.3,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes
+7677-SJJJK,0.0242771431803703,LOW,MONITOR,8,19.9,153.95,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+5850-BDWCY,0.071638248860836,LOW,MONITOR,6,20.2,123.65,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+2025-JKFWI,0.7636417746543884,HIGH,URGENT,13,99.0,1301.7,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,Yes
+8028-PNXHQ,0.0058141988702118,LOW,MONITOR,62,24.25,1424.6,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+8397-MVTAZ,0.6383891701698303,HIGH,URGENT,34,100.05,3480.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4445-ZJNMU,0.8830887079238892,HIGH,URGENT,9,99.3,918.75,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+3125-RAHBV,0.0185918565839529,LOW,MONITOR,22,20.3,467.15,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+6682-QJDGB,0.235705554485321,LOW,MONITOR,40,55.25,2139.2,Month-to-month,DSL,Mailed check,No,Yes,Yes,Yes
+8840-DQLGN,0.2510900497436523,LOW,MONITOR,35,100.5,3653.35,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,Yes
+6258-NGCNG,0.1749922484159469,LOW,MONITOR,7,23.5,173.0,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+5917-RYRMG,0.0128208762034773,LOW,MONITOR,32,19.8,587.7,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+7157-SMCFK,0.0277668759226799,LOW,MONITOR,61,19.75,1124.2,Two year,No,Mailed check,No internet service,No internet service,No,No
+0816-TSPHQ,0.0805396810173988,LOW,MONITOR,2,20.75,44.2,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+6766-HFKLA,0.0648231208324432,LOW,MONITOR,56,103.2,5744.35,Two year,Fiber optic,Bank transfer (automatic),Yes,No,No,No
+7067-KSAZT,0.2717907726764679,LOW,MONITOR,65,106.25,6979.8,One year,Fiber optic,Electronic check,No,No,Yes,Yes
+5155-AZQPB,0.058413989841938,LOW,MONITOR,28,49.9,1410.25,Month-to-month,DSL,Mailed check,No,No,No,No
+6890-PFRQX,0.1489803940057754,LOW,MONITOR,18,69.5,1199.4,Month-to-month,DSL,Mailed check,No,Yes,No,No
+3508-VLHCZ,0.0038344936911016,LOW,MONITOR,71,90.55,6239.05,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+3649-JPUGY,0.0075343153439462,LOW,MONITOR,72,88.6,6201.95,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+9248-OJYKK,0.9132309556007384,HIGH,URGENT,1,76.45,76.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7239-HZZCX,0.3197006583213806,MEDIUM,ENGAGE,1,19.75,19.75,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+9860-LISIZ,0.0459734573960304,LOW,MONITOR,34,20.35,673.2,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+6979-ZNSFF,0.7896766066551208,HIGH,URGENT,8,87.05,762.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8938-UMKPI,0.5549919605255127,MEDIUM,ENGAGE,47,106.4,5127.95,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+1820-DJFPH,0.0022984542883932,LOW,MONITOR,72,24.05,1709.15,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+0732-OCQOC,0.0179109945893287,LOW,MONITOR,52,25.05,1270.25,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+6776-TLWOI,0.1369182616472244,LOW,MONITOR,3,19.85,64.55,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+4940-KHCWD,0.0095743630081415,LOW,MONITOR,60,37.7,2288.7,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+9057-SIHCH,0.877274751663208,HIGH,URGENT,3,96.6,291.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9866-QEVEE,0.3697171509265899,MEDIUM,ENGAGE,19,86.0,1532.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+5542-TBBWB,0.8565287590026855,HIGH,URGENT,1,69.9,69.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+4587-VVTOX,0.7848973274230957,HIGH,URGENT,6,105.3,545.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6322-HRPFA,0.0700494423508644,LOW,MONITOR,49,59.6,2970.3,Month-to-month,DSL,Credit card (automatic),Yes,Yes,No,No
+6284-AHOOQ,0.3331843614578247,MEDIUM,ENGAGE,22,90.5,1910.6,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes
+4530-NDRKU,0.0196375083178281,LOW,MONITOR,42,19.05,761.85,One year,No,Electronic check,No internet service,No internet service,Yes,No
+1751-NCDLI,0.7110633254051208,HIGH,URGENT,46,98.85,4564.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+3893-JRNFS,0.13027985394001,LOW,MONITOR,68,39.9,2796.35,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+5857-XRECV,0.03707055747509,LOW,MONITOR,2,20.5,38.25,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+3115-CZMZD,0.0094427103176712,LOW,MONITOR,0,20.25,0.0,Two year,No,Mailed check,No internet service,No internet service,No,No
+4489-SNOJF,0.146865114569664,LOW,MONITOR,35,72.25,2568.55,Month-to-month,DSL,Electronic check,Yes,Yes,No,Yes
+1051-GEJLJ,0.1978027820587158,LOW,MONITOR,2,19.5,27.55,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+3563-SVYLG,0.0084245726466178,LOW,MONITOR,68,62.65,4375.8,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+4301-VVZKA,0.6317188143730164,HIGH,URGENT,16,75.4,1189.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+9351-HXDMR,0.0508921518921852,LOW,MONITOR,72,110.9,8240.85,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+5161-XEUVX,0.0570046938955783,LOW,MONITOR,37,94.3,3460.95,Two year,Fiber optic,Mailed check,Yes,No,No,No
+3088-FVYWK,0.0251016542315483,LOW,MONITOR,53,25.55,1336.1,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+9812-GHVRI,0.3393784165382385,MEDIUM,ENGAGE,40,83.85,3532.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No
+1370-GGAWX,0.2280399650335312,LOW,MONITOR,46,94.15,4408.45,One year,Fiber optic,Electronic check,No,No,Yes,No
+6023-YEBUP,0.8780906200408936,HIGH,URGENT,3,100.95,329.95,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9940-RHLFB,0.7323974370956421,HIGH,URGENT,1,75.3,75.3,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+4541-RMRLG,0.0613964088261127,LOW,MONITOR,7,19.25,112.3,Month-to-month,No,Electronic check,No internet service,No internet service,No,Yes
+2606-RMDHZ,0.4221907556056976,MEDIUM,ENGAGE,6,30.5,208.7,Month-to-month,DSL,Credit card (automatic),No,No,Yes,Yes
+5575-TPIZQ,0.2515786588191986,LOW,MONITOR,46,89.15,4245.55,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+9378-FXTIZ,0.1096522286534309,LOW,MONITOR,54,70.15,3715.65,One year,DSL,Credit card (automatic),No,No,Yes,Yes
+4631-OACRM,0.6430647373199463,HIGH,URGENT,15,79.4,1156.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8593-WHYHV,0.8513554334640503,HIGH,URGENT,3,85.3,264.8,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+1403-GYAFU,0.0031669167801737,LOW,MONITOR,70,20.05,1360.25,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+7641-TQFHN,0.0452866032719612,LOW,MONITOR,39,100.55,3895.35,Two year,Fiber optic,Mailed check,Yes,No,No,No
+4237-CLSMM,0.1076372116804122,LOW,MONITOR,2,20.0,38.0,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+4360-PNRQB,0.2894021272659302,LOW,MONITOR,18,75.6,1395.05,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+5334-AFQJB,0.0018133147386834,LOW,MONITOR,72,25.1,1789.9,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+9308-ANMVE,0.283938467502594,LOW,MONITOR,47,55.3,2654.05,Month-to-month,DSL,Electronic check,No,Yes,Yes,No
+3530-VWVGU,0.0996367037296295,LOW,MONITOR,22,19.9,400.3,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+4674-HGNUA,0.0036222725175321,LOW,MONITOR,71,89.9,6457.15,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+3030-YDNRM,0.7164721488952637,HIGH,URGENT,8,74.85,572.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+3642-BYHDO,0.0045384597033262,LOW,MONITOR,71,19.9,1389.35,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+0440-UEDAI,0.1009267717599868,LOW,MONITOR,53,94.45,5042.75,One year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+9819-FBNSV,0.3481998443603515,MEDIUM,ENGAGE,37,72.25,2575.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+9289-LBQVU,0.0536256097257137,LOW,MONITOR,64,70.15,4480.7,One year,DSL,Mailed check,Yes,No,Yes,No
+4468-YDOVK,0.2688749432563782,LOW,MONITOR,5,48.65,235.2,Month-to-month,DSL,Bank transfer (automatic),Yes,No,Yes,No
+2001-EWBQU,0.131813958287239,LOW,MONITOR,60,104.7,6333.8,Two year,Fiber optic,Electronic check,No,No,No,No
+9992-UJOEL,0.5364401340484619,MEDIUM,ENGAGE,2,50.3,92.75,Month-to-month,DSL,Mailed check,No,No,Yes,No
+8409-WQJUX,0.1215244457125663,LOW,MONITOR,25,54.2,1423.15,One year,DSL,Electronic check,Yes,No,No,No
+3077-RSNTJ,0.1048256382346153,LOW,MONITOR,6,19.7,113.5,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+6993-YCOBK,0.0345011763274669,LOW,MONITOR,60,110.6,6586.85,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+4817-VYYWS,0.5366908311843872,MEDIUM,ENGAGE,30,100.2,2983.8,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4702-HDRKD,0.0201485008001327,LOW,MONITOR,67,49.35,3321.35,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+3251-YMVWZ,0.0937411114573478,LOW,MONITOR,53,24.05,1301.9,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+4190-MFLUW,0.2639853954315185,LOW,MONITOR,10,55.2,528.35,Month-to-month,DSL,Credit card (automatic),Yes,No,No,Yes
+4678-DVQEO,0.462606281042099,MEDIUM,ENGAGE,1,52.2,52.2,Month-to-month,DSL,Electronic check,Yes,No,Yes,Yes
+4701-AHWMW,0.0858731046319007,LOW,MONITOR,55,54.55,2978.3,Month-to-month,DSL,Bank transfer (automatic),Yes,No,Yes,Yes
+2987-BJXIK,0.0178206488490104,LOW,MONITOR,70,84.7,5991.05,Two year,DSL,Mailed check,No,Yes,No,No
+1730-VFMWO,0.0659321397542953,LOW,MONITOR,34,50.2,1815.3,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No,No
+1936-UAFEH,0.0814507827162742,LOW,MONITOR,68,110.25,7279.35,Two year,Fiber optic,Credit card (automatic),Yes,Yes,No,No
+5140-FOMCQ,0.2447753250598907,LOW,MONITOR,59,109.15,6557.75,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+8778-LMWTJ,0.4680503010749817,MEDIUM,ENGAGE,9,74.85,708.2,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+9840-DVNDC,0.6087430119514465,HIGH,URGENT,6,80.5,463.05,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+8033-VCZGH,0.4309393167495727,MEDIUM,ENGAGE,50,103.95,5231.3,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+8580-QVLOC,0.0018345480784773,LOW,MONITOR,72,92.45,6440.25,Two year,DSL,Credit card (automatic),Yes,Yes,No,Yes
+6128-AQBMT,0.502541720867157,MEDIUM,ENGAGE,41,53.95,2215.4,Month-to-month,DSL,Electronic check,No,No,Yes,No
+6257-RJOHI,0.2836164534091949,LOW,MONITOR,4,50.8,202.3,Month-to-month,DSL,Mailed check,Yes,No,Yes,No
+1929-ZCBHE,0.0464639253914356,LOW,MONITOR,47,40.3,1794.8,One year,DSL,Electronic check,Yes,Yes,No,No
+6242-SGYTS,0.062412392348051,LOW,MONITOR,62,94.95,5791.85,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+7010-ZMVBF,0.0578572489321231,LOW,MONITOR,18,20.45,357.0,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+3519-ZKXGG,0.7616066336631775,HIGH,URGENT,3,75.85,256.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5666-MBJPT,0.0095776058733463,LOW,MONITOR,65,25.1,1725.0,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+3313-QKNKB,0.1581141203641891,LOW,MONITOR,59,85.55,5084.65,One year,Fiber optic,Electronic check,No,No,No,Yes
+7581-EBBOU,0.0392361171543598,LOW,MONITOR,60,70.15,4224.7,One year,DSL,Credit card (automatic),Yes,No,Yes,No
+1784-BXEFA,0.0757650360465049,LOW,MONITOR,10,20.55,187.35,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+7492-TAFJD,0.0207404401153326,LOW,MONITOR,7,38.55,280.0,Two year,DSL,Mailed check,No,Yes,No,No
+5213-TWWJU,0.2302989065647125,LOW,MONITOR,28,91.0,2626.15,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No
+3312-ZWLGF,0.5010627508163452,MEDIUM,ENGAGE,29,79.3,2414.55,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+2923-ARZLG,0.1008832231163978,LOW,MONITOR,0,19.7,0.0,One year,No,Mailed check,No internet service,No internet service,Yes,No
+7032-LMBHI,0.0390775315463542,LOW,MONITOR,37,64.65,2347.85,One year,DSL,Bank transfer (automatic),No,Yes,No,No
+8292-ITGYJ,0.017889317125082,LOW,MONITOR,45,24.65,1138.8,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+9107-UKCKY,0.1480795741081237,LOW,MONITOR,61,79.8,4914.8,One year,DSL,Electronic check,No,No,Yes,No
+6848-HJTXY,0.0129620870575308,LOW,MONITOR,64,19.45,1208.6,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+4184-VODJZ,0.0997542515397071,LOW,MONITOR,63,91.35,5764.7,One year,Fiber optic,Electronic check,No,No,Yes,No
+4846-WHAFZ,0.5510550737380981,MEDIUM,ENGAGE,37,76.5,2868.15,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8735-SDUFN,0.0014297575689852,LOW,MONITOR,72,24.3,1778.7,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+0839-JTCUD,0.0189874935895204,LOW,MONITOR,66,89.9,5958.85,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+6857-VWJDT,0.8802632689476013,HIGH,URGENT,1,95.65,95.65,Month-to-month,Fiber optic,Mailed check,No,No,No,Yes
+7363-QTBIW,0.6570319533348083,HIGH,URGENT,9,79.75,769.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+6158-HDPXZ,0.5324674844741821,MEDIUM,ENGAGE,1,25.35,25.35,Month-to-month,DSL,Mailed check,No,No,No,No
+5419-CONWX,0.8624112606048584,HIGH,URGENT,4,99.8,442.85,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+9286-DOJGF,0.3927578628063202,MEDIUM,ENGAGE,38,74.95,2869.85,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+2408-PSJVE,0.0698731839656829,LOW,MONITOR,44,61.9,2924.05,Month-to-month,DSL,Mailed check,Yes,No,Yes,No
+2087-QAREY,0.2120444178581237,LOW,MONITOR,22,54.7,1178.75,Month-to-month,DSL,Mailed check,No,No,Yes,No
+6777-TGHTM,0.338320255279541,MEDIUM,ENGAGE,53,106.95,5785.5,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,Yes
+6507-ZJSUR,0.5025706887245178,MEDIUM,ENGAGE,23,90.45,2117.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+5025-GOOKI,0.0508767142891883,LOW,MONITOR,20,18.9,347.65,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+6080-LNESI,0.0200969576835632,LOW,MONITOR,51,24.75,1234.6,Two year,No,Mailed check,No internet service,No internet service,No,No
+2236-HILPA,0.0054586892947554,LOW,MONITOR,62,20.65,1218.45,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+1386-ZIKUV,0.0512539930641651,LOW,MONITOR,7,18.95,130.55,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+3365-SAIGS,0.506586492061615,MEDIUM,ENGAGE,17,83.55,1329.15,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+6061-GWWAV,0.0376680493354797,LOW,MONITOR,41,70.2,2894.55,One year,DSL,Mailed check,No,Yes,No,No
+9979-RGMZT,0.3733265399932861,MEDIUM,ENGAGE,7,94.05,633.45,One year,Fiber optic,Mailed check,No,No,Yes,No
+8445-DNBAE,0.6075148582458496,HIGH,URGENT,1,50.05,50.05,Month-to-month,DSL,Electronic check,No,No,Yes,No
+6872-HXFNF,0.0158343520015478,LOW,MONITOR,64,58.35,3756.45,One year,DSL,Bank transfer (automatic),Yes,No,No,No
+1320-HTRDR,0.7380604147911072,HIGH,URGENT,3,75.5,220.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+3923-CSIHK,0.2799289226531982,LOW,MONITOR,50,71.05,3444.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2446-ZKVAF,0.1690417230129242,LOW,MONITOR,18,56.8,1074.65,Month-to-month,DSL,Credit card (automatic),No,No,No,No
+4640-UHDOS,0.2781251072883606,LOW,MONITOR,13,55.95,734.35,Month-to-month,DSL,Electronic check,No,No,No,Yes
+5457-COLHT,0.0197344310581684,LOW,MONITOR,69,80.65,5542.55,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+2254-DLXRI,0.8781987428665161,HIGH,URGENT,1,79.15,79.15,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+5339-PXDVH,0.5107269883155823,MEDIUM,ENGAGE,4,90.65,367.95,Month-to-month,Fiber optic,Electronic check,No,Yes,No,No
+2386-LAHRK,0.6283339262008667,HIGH,URGENT,1,53.5,53.5,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+5062-CJJKH,0.0479248687624931,LOW,MONITOR,25,53.65,1355.45,One year,DSL,Mailed check,No,No,No,No
+8930-XOTDP,0.2248584032058715,LOW,MONITOR,18,55.95,1082.8,Month-to-month,DSL,Mailed check,No,No,No,No
+4779-ZGICK,0.0327267833054065,LOW,MONITOR,48,23.55,1173.35,Two year,No,Mailed check,No internet service,No internet service,No,No
+9534-NSXEM,0.011461965739727,LOW,MONITOR,26,20.65,595.5,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+3716-BDVDB,0.8808337450027466,HIGH,URGENT,1,69.1,69.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9842-EFSYY,0.3189548552036285,MEDIUM,ENGAGE,4,57.2,223.75,Month-to-month,DSL,Mailed check,No,Yes,Yes,No
+9122-UMROB,0.2606678009033203,LOW,MONITOR,1,20.3,20.3,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+1867-BDVFH,0.6458084583282471,HIGH,URGENT,11,74.35,834.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5949-EBSQK,0.217876598238945,LOW,MONITOR,4,61.45,229.55,Month-to-month,DSL,Credit card (automatic),Yes,No,No,Yes
+4160-AMJTL,0.1465911716222763,LOW,MONITOR,8,19.65,164.3,Month-to-month,No,Electronic check,No internet service,No internet service,No,Yes
+8622-ZLFKO,0.8300462365150452,HIGH,URGENT,6,90.75,512.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2990-IAJSV,0.0022204469423741,LOW,MONITOR,72,92.0,6632.75,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+6064-ZATLR,0.0192338600754737,LOW,MONITOR,27,52.85,1498.65,Two year,DSL,Bank transfer (automatic),No,Yes,No,No
+7409-KIUTL,0.8253040909767151,HIGH,URGENT,1,71.0,71.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5505-OVWQW,0.0333334952592849,LOW,MONITOR,17,20.15,353.65,One year,No,Mailed check,No internet service,No internet service,No,No
+3948-KXDUF,0.0091413278132677,LOW,MONITOR,66,68.75,4447.55,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+9814-AOUDH,0.0133140496909618,LOW,MONITOR,53,19.5,1050.5,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+7398-LXGYX,0.2474429160356521,LOW,MONITOR,44,84.8,3626.35,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+5266-PFRQK,0.0359674021601676,LOW,MONITOR,52,20.85,1071.6,One year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+1568-BEKZM,0.0328168123960495,LOW,MONITOR,70,90.05,6333.4,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+2692-PFYTJ,0.2991550862789154,LOW,MONITOR,1,25.75,25.75,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+2533-QVMSK,0.0654701143503189,LOW,MONITOR,61,94.1,5638.3,Two year,Fiber optic,Electronic check,Yes,No,Yes,Yes
+5828-AVIPD,0.3420195579528808,MEDIUM,ENGAGE,19,100.95,1875.55,One year,Fiber optic,Electronic check,Yes,No,Yes,Yes
+2907-ILJBN,0.0232920814305543,LOW,MONITOR,11,20.6,233.9,One year,No,Mailed check,No internet service,No internet service,No,No
+5226-NOZFC,0.485336035490036,MEDIUM,ENGAGE,26,85.75,2146.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+7114-AEOZE,0.0182257834821939,LOW,MONITOR,60,19.85,1128.1,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+2202-CUYXZ,0.8489853143692017,HIGH,URGENT,1,84.85,84.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+3466-RITXD,0.4687060713768005,MEDIUM,ENGAGE,26,92.4,2349.8,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+7278-CKDNC,0.5335727334022522,MEDIUM,ENGAGE,24,80.5,2088.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+1956-YIFGE,0.3286571502685547,MEDIUM,ENGAGE,22,100.05,2090.25,One year,Fiber optic,Mailed check,No,No,Yes,No
+0422-UXFAP,0.3057434558868408,MEDIUM,ENGAGE,51,98.85,4947.55,One year,Fiber optic,Electronic check,No,No,Yes,No
+3733-UOCWF,0.0345711633563041,LOW,MONITOR,61,85.55,5251.75,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+7191-ADRGF,0.065646156668663,LOW,MONITOR,44,54.3,2390.45,Two year,DSL,Bank transfer (automatic),No,No,No,No
+5709-LVOEQ,0.0400496944785118,LOW,MONITOR,0,80.85,0.0,Two year,DSL,Mailed check,No,Yes,No,No
+6034-YMTOB,0.4660184979438782,MEDIUM,ENGAGE,5,75.65,399.45,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,No
+6372-RFVNS,0.8574746251106262,HIGH,URGENT,1,78.8,78.8,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+9052-DHNKM,0.0580373741686344,LOW,MONITOR,26,61.55,1581.95,One year,DSL,Electronic check,No,Yes,No,No
+5609-IMCGG,0.3784760236740112,MEDIUM,ENGAGE,15,84.35,1302.65,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+2959-MJHIC,0.7069984674453735,HIGH,URGENT,4,80.35,307.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+1319-YLZJG,0.4971089363098144,MEDIUM,ENGAGE,12,84.6,959.9,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+7623-TRNQN,0.3079434633255005,MEDIUM,ENGAGE,1,49.9,49.9,Month-to-month,DSL,Mailed check,Yes,No,Yes,Yes
+0377-JBKKT,0.0847811996936798,LOW,MONITOR,22,57.95,1271.8,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,No
+1936-CZAKF,0.0694284066557884,LOW,MONITOR,49,49.65,2409.9,Two year,DSL,Credit card (automatic),No,No,No,No
+5063-IUOKK,0.0077336714603006,LOW,MONITOR,13,19.75,265.75,Two year,No,Mailed check,No internet service,No internet service,No,No
+8646-JCOMS,0.0668289884924888,LOW,MONITOR,66,90.55,6130.95,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+0979-MOZQI,0.0239104703068733,LOW,MONITOR,62,39.0,2337.45,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+1525-LNLOJ,0.0244575217366218,LOW,MONITOR,66,63.3,4189.7,Two year,DSL,Bank transfer (automatic),No,No,Yes,No
+5759-RCVCB,0.4936501681804657,MEDIUM,ENGAGE,3,35.2,108.95,Month-to-month,DSL,Credit card (automatic),No,No,No,Yes
+9968-FFVVH,0.0140249608084559,LOW,MONITOR,63,68.8,4111.35,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+2266-FUBDZ,0.0126575762405991,LOW,MONITOR,15,19.35,278.85,Two year,No,Mailed check,No internet service,No internet service,No,No
+4760-THGOT,0.3298473358154297,MEDIUM,ENGAGE,43,94.1,4107.3,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+2307-FYNNL,0.3647364675998688,MEDIUM,ENGAGE,65,109.05,7108.2,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+1143-NMNQJ,0.8571532964706421,HIGH,URGENT,2,85.7,169.8,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+1629-DQQVB,0.140110582113266,LOW,MONITOR,14,50.1,709.5,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,No
+3766-EJLFL,0.3545443117618561,MEDIUM,ENGAGE,68,109.05,7508.55,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+8457-XIGKN,0.0605828464031219,LOW,MONITOR,20,19.6,356.15,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+4981-FLTMF,0.0503304041922092,LOW,MONITOR,57,65.2,3687.85,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No
+7606-BPHHN,0.0006355143268592,LOW,MONITOR,72,19.8,1468.75,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+7005-CCBKV,0.7102603316307068,HIGH,URGENT,6,84.4,556.35,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4648-YPBTM,0.0272051356732845,LOW,MONITOR,53,73.9,3958.25,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+2325-ZUSFD,0.0313329175114631,LOW,MONITOR,57,70.1,3913.3,One year,DSL,Bank transfer (automatic),No,Yes,Yes,Yes
+1240-KNSEZ,0.5811033248901367,MEDIUM,ENGAGE,1,20.1,20.1,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,Yes
+0430-IHCDJ,0.5186527967453003,MEDIUM,ENGAGE,15,49.0,749.25,Month-to-month,DSL,Electronic check,No,No,Yes,No
+7957-RYHQD,0.3248350322246551,MEDIUM,ENGAGE,40,79.2,3233.85,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,Yes
+6164-HAQTX,0.0102063752710819,LOW,MONITOR,71,53.95,3888.65,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+0749-IRGQE,0.5910097360610962,MEDIUM,ENGAGE,13,45.3,528.45,Month-to-month,DSL,Electronic check,No,No,No,No
+1227-UDMZR,0.0022900225594639,LOW,MONITOR,72,91.15,6637.9,Two year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+5473-KHBPS,0.0932471230626106,LOW,MONITOR,52,95.7,4976.15,One year,Fiber optic,Credit card (automatic),No,No,Yes,No
+5297-MDOIR,0.0243216007947921,LOW,MONITOR,63,81.15,5224.5,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+8873-TMKGR,0.0027792593464255,LOW,MONITOR,29,19.1,529.5,One year,No,Mailed check,No internet service,No internet service,No,No
+6481-ESCNL,0.3504445552825928,MEDIUM,ENGAGE,29,100.55,2878.75,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No
+0463-WZZKO,0.1120305135846138,LOW,MONITOR,3,20.75,67.1,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+1038-RQOST,0.0533504448831081,LOW,MONITOR,19,20.6,414.95,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+4937-QPZPO,0.3520592749118805,MEDIUM,ENGAGE,61,99.9,6241.35,One year,Fiber optic,Electronic check,No,No,Yes,No
+3604-WLABM,0.2734884321689605,LOW,MONITOR,10,54.25,583.0,Month-to-month,DSL,Electronic check,Yes,No,No,No
+1360-XFJMR,0.1561647057533264,LOW,MONITOR,67,109.7,7344.45,One year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+8717-VCTXJ,0.0201082490384578,LOW,MONITOR,42,19.55,839.4,One year,No,Mailed check,No internet service,No internet service,Yes,No
+5196-SGOAK,0.840762197971344,HIGH,URGENT,1,75.7,75.7,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8739-XNIKG,0.8173704743385315,HIGH,URGENT,5,84.0,424.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2320-TZRRH,0.0336828045547008,LOW,MONITOR,20,19.5,403.15,One year,No,Mailed check,No internet service,No internet service,No,No
+5186-SAMNZ,0.848962664604187,HIGH,URGENT,1,69.5,69.5,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+5760-FXFVO,0.4987154901027679,MEDIUM,ENGAGE,6,78.95,494.95,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+5380-WJKOV,0.580819845199585,MEDIUM,ENGAGE,34,106.35,3549.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4703-MQYKT,0.0091377831995487,LOW,MONITOR,21,19.6,390.4,Two year,No,Mailed check,No internet service,No internet service,No,No
+2001-MCUUW,0.2293734401464462,LOW,MONITOR,46,108.65,4903.2,Two year,Fiber optic,Electronic check,Yes,No,No,No
+4947-DSMXK,0.4014629125595093,MEDIUM,ENGAGE,34,97.7,3410.0,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+0076-LVEPS,0.0633910521864891,LOW,MONITOR,29,45.0,1242.45,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,No
+5566-SOEZD,0.0601587258279323,LOW,MONITOR,27,80.65,2209.75,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+7408-OFWXJ,0.0014412695309147,LOW,MONITOR,72,89.8,6510.45,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+1097-FSPVW,0.2030572444200515,LOW,MONITOR,42,54.55,2455.05,Month-to-month,DSL,Credit card (automatic),No,Yes,No,No
+4412-YLTKF,0.5086691975593567,MEDIUM,ENGAGE,27,78.05,2135.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0420-TXVSG,0.0093606114387512,LOW,MONITOR,66,66.1,4428.45,Two year,DSL,Credit card (automatic),No,Yes,Yes,No
+7817-BOQPW,0.7425605654716492,HIGH,URGENT,2,75.55,166.3,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0963-ZBDRN,0.4317440986633301,MEDIUM,ENGAGE,32,96.2,3183.4,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes
+9685-WKZGT,0.7807386517524719,HIGH,URGENT,14,74.95,1036.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2139-FQHLM,0.3173409402370453,MEDIUM,ENGAGE,19,89.95,1682.4,Month-to-month,Fiber optic,Mailed check,Yes,No,No,No
+5825-XJOCM,0.0463298819959163,LOW,MONITOR,48,64.4,3035.35,One year,DSL,Bank transfer (automatic),No,Yes,Yes,No
+0004-TLHLJ,0.6051148772239685,HIGH,URGENT,4,73.9,280.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7529-ZDFXI,0.3202115595340729,MEDIUM,ENGAGE,57,89.85,4925.35,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+6848-YLDFR,0.070362776517868,LOW,MONITOR,58,75.2,4300.8,One year,DSL,Credit card (automatic),Yes,No,Yes,No
+5820-PTRYM,0.0341300666332244,LOW,MONITOR,56,68.45,4014.0,One year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+2984-RGEYA,0.0091937417164444,LOW,MONITOR,69,19.75,1375.4,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+6434-TTGJP,0.0103177074342966,LOW,MONITOR,10,53.7,521.0,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+9643-AVVWI,0.6797124147415161,HIGH,URGENT,3,80.0,241.3,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+3506-OVLKD,0.0315820388495922,LOW,MONITOR,35,26.2,954.9,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+4946-EDSEW,0.0552566349506378,LOW,MONITOR,11,19.25,180.3,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,Yes
+2924-KHUVI,0.3554252684116363,MEDIUM,ENGAGE,56,100.55,5514.95,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+2263-SFSQZ,0.0196883976459503,LOW,MONITOR,51,24.95,1222.25,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+5281-BUZGT,0.4440754354000091,MEDIUM,ENGAGE,36,90.85,3186.7,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+3717-FDJFU,0.0047920551151037,LOW,MONITOR,5,20.45,106.9,Two year,No,Mailed check,No internet service,No internet service,No,No
+2239-CFOUJ,0.0467636175453662,LOW,MONITOR,1,20.4,20.4,One year,No,Mailed check,No internet service,No internet service,No,No
+8699-ASUFO,0.7084311842918396,HIGH,URGENT,7,74.4,527.9,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes
+1122-YJBCS,0.022637665271759,LOW,MONITOR,69,53.65,3804.4,One year,DSL,Credit card (automatic),No,Yes,Yes,No
+0628-CNQRM,0.0426604226231575,LOW,MONITOR,22,67.5,1544.05,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,Yes
+1705-GUHPV,0.0090987626463174,LOW,MONITOR,63,24.2,1618.2,Two year,No,Mailed check,No internet service,No internet service,No,No
+4877-TSOFF,0.0486072488129138,LOW,MONITOR,55,75.75,4264.25,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+7404-JLKQG,0.4292012453079223,MEDIUM,ENGAGE,3,57.55,161.45,Month-to-month,DSL,Electronic check,No,No,No,No
+0379-DJQHR,0.0508912317454814,LOW,MONITOR,67,81.35,5398.6,Two year,DSL,Credit card (automatic),No,Yes,No,No
+8993-PHFWD,0.5331750512123108,MEDIUM,ENGAGE,3,25.25,58.9,Month-to-month,DSL,Electronic check,No,No,No,Yes
+3930-ZGWVE,0.3197006583213806,MEDIUM,ENGAGE,1,19.75,19.75,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+1965-DDBWU,0.4867671430110931,MEDIUM,ENGAGE,16,89.05,1448.6,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,Yes
+7572-KPVKK,0.1437722891569137,LOW,MONITOR,62,104.05,6590.5,Two year,Fiber optic,Electronic check,Yes,No,Yes,No
+6854-EXGSF,0.1735613793134689,LOW,MONITOR,8,65.5,573.15,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+9483-GCPWE,0.0400125905871391,LOW,MONITOR,9,20.1,190.25,One year,No,Mailed check,No internet service,No internet service,No,No
+8053-WWDRO,0.1371708959341049,LOW,MONITOR,6,19.5,146.3,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,Yes
+9473-CBZOP,0.0235730148851871,LOW,MONITOR,28,59.0,1654.45,One year,DSL,Mailed check,No,Yes,No,No
+3985-HOYPM,0.0254540611058473,LOW,MONITOR,26,19.4,525.55,One year,No,Mailed check,No internet service,No internet service,No,No
+8378-LKJAF,0.4443943500518799,MEDIUM,ENGAGE,38,101.15,3956.7,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+1310-QRITU,0.3955088257789612,MEDIUM,ENGAGE,18,50.3,913.3,Month-to-month,DSL,Electronic check,No,No,Yes,No
+3237-AJGEH,0.2623860538005829,LOW,MONITOR,3,31.0,95.05,Month-to-month,DSL,Mailed check,Yes,No,Yes,Yes
+6542-LWGXJ,0.5358966588973999,MEDIUM,ENGAGE,3,25.0,78.25,Month-to-month,DSL,Mailed check,No,No,No,No
+6953-PBDIN,0.0881473198533058,LOW,MONITOR,70,72.95,5265.55,Two year,DSL,Bank transfer (automatic),Yes,No,No,No
+6332-FBZRI,0.0296113155782222,LOW,MONITOR,67,69.35,4653.25,One year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+9365-CSLBQ,0.0013809306547045,LOW,MONITOR,71,24.35,1654.6,Two year,No,Mailed check,No internet service,No internet service,No,No
+3466-WAESX,0.2846221923828125,LOW,MONITOR,16,69.1,1083.7,Month-to-month,DSL,Electronic check,No,Yes,Yes,No
+9700-ISPUP,0.2306053787469864,LOW,MONITOR,10,65.5,616.9,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+5167-ZFFMM,0.8452233076095581,HIGH,URGENT,1,90.85,90.85,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+7669-LCRSD,0.2260639667510986,LOW,MONITOR,12,56.3,628.65,Month-to-month,DSL,Mailed check,No,No,Yes,No
+0870-VEMYL,0.1905917078256607,LOW,MONITOR,5,53.85,259.8,Month-to-month,DSL,Credit card (automatic),Yes,Yes,No,Yes
+2995-UPRYS,0.1904660761356353,LOW,MONITOR,40,99.2,4062.2,One year,Fiber optic,Credit card (automatic),Yes,No,Yes,Yes
+3179-GBRWV,0.1421656012535095,LOW,MONITOR,21,64.95,1339.8,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+0701-TJSEF,0.1374882012605667,LOW,MONITOR,9,68.25,576.95,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+1848-LBZHY,0.2079677283763885,LOW,MONITOR,7,50.3,355.1,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,No
+5380-XPJNZ,0.0250270571559667,LOW,MONITOR,38,20.05,678.2,One year,No,Mailed check,No internet service,No internet service,No,No
+6608-QQLVK,0.6217872500419617,HIGH,URGENT,1,50.5,50.5,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+1475-VWVDO,0.5932491421699524,MEDIUM,ENGAGE,7,74.9,490.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+3721-CNEYS,0.619172990322113,HIGH,URGENT,2,70.95,137.95,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4299-OPXEJ,0.0397199504077434,LOW,MONITOR,56,19.55,1080.55,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+0096-BXERS,0.3845697045326233,MEDIUM,ENGAGE,6,50.35,314.55,Month-to-month,DSL,Electronic check,No,No,No,No
+3055-VTCGS,0.0368558205664157,LOW,MONITOR,63,58.55,3503.5,One year,DSL,Credit card (automatic),No,No,No,No
+9405-GPBBG,0.1060478091239929,LOW,MONITOR,64,110.5,7069.25,Two year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+6704-UTUKK,0.3250287771224975,MEDIUM,ENGAGE,29,45.9,1332.4,Month-to-month,DSL,Electronic check,No,No,Yes,No
+9944-AEXBM,0.3560085594654083,MEDIUM,ENGAGE,32,85.65,2664.3,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+2545-EBUPK,0.8778955340385437,HIGH,URGENT,2,84.05,186.05,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+6270-OMFIW,0.1562231332063675,LOW,MONITOR,60,94.4,5610.25,One year,Fiber optic,Electronic check,No,No,Yes,Yes
+1852-XEMDW,0.1460200101137161,LOW,MONITOR,22,65.05,1427.55,Month-to-month,DSL,Mailed check,No,Yes,No,No
+8158-WPEZG,0.311974436044693,MEDIUM,ENGAGE,11,35.65,425.1,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+5198-EFNBM,0.1086183041334152,LOW,MONITOR,57,90.65,5199.8,One year,Fiber optic,Electronic check,No,No,Yes,No
+7663-RGWBC,0.542669951915741,MEDIUM,ENGAGE,1,44.15,44.15,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+3970-XGJDU,0.0140875224024057,LOW,MONITOR,62,19.2,1123.65,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+6845-RGTYS,0.4041845202445984,MEDIUM,ENGAGE,47,98.75,4533.7,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+0123-CRBRT,0.0097797885537147,LOW,MONITOR,61,88.1,5526.75,Two year,DSL,Mailed check,Yes,Yes,No,No
+6077-BDPXA,0.5983205437660217,MEDIUM,ENGAGE,3,70.15,194.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2250-IVBWA,0.1277347207069397,LOW,MONITOR,64,81.05,5135.35,Month-to-month,Fiber optic,Electronic check,No,Yes,No,No
+6137-NICCO,0.8162636160850525,HIGH,URGENT,6,94.05,518.75,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+8129-GMVGI,0.0191373601555824,LOW,MONITOR,56,20.05,1090.1,Two year,No,Mailed check,No internet service,No internet service,No,No
+4353-HYOJD,0.0659320801496505,LOW,MONITOR,27,49.85,1336.15,Month-to-month,DSL,Mailed check,No,No,No,No
+8671-KKKOS,0.2119796872138977,LOW,MONITOR,46,45.55,2062.15,Month-to-month,DSL,Electronic check,No,Yes,No,No
+8080-DDEMJ,0.7078068256378174,HIGH,URGENT,1,45.1,45.1,Month-to-month,DSL,Electronic check,No,No,No,Yes
+6698-OXETB,0.0051736300811171,LOW,MONITOR,11,20.4,231.45,Two year,No,Mailed check,No internet service,No internet service,No,No
+3312-UUMZW,0.4921711385250091,MEDIUM,ENGAGE,32,98.85,3145.9,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+6376-GAHQE,0.6063604950904846,HIGH,URGENT,4,77.85,299.2,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+0733-VUNUW,0.1068738624453544,LOW,MONITOR,24,55.65,1400.55,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,Yes
+6733-LRIZX,0.2416506856679916,LOW,MONITOR,35,108.95,4025.5,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+2165-VOEGB,0.1241111755371093,LOW,MONITOR,46,105.2,4822.85,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,Yes
+1853-UDXBW,0.8642604351043701,HIGH,URGENT,1,70.0,70.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9070-BCKQP,0.0064647025428712,LOW,MONITOR,72,110.15,7881.2,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+1035-IPQPU,0.3658121526241302,MEDIUM,ENGAGE,63,103.5,6479.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2057-ZBLPD,0.5766547918319702,MEDIUM,ENGAGE,21,86.5,1808.7,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6967-PEJLL,0.0511675514280796,LOW,MONITOR,37,40.2,1525.35,One year,DSL,Electronic check,Yes,Yes,Yes,No
+7879-CGSFV,0.163919985294342,LOW,MONITOR,55,100.9,5552.05,One year,Fiber optic,Mailed check,No,Yes,Yes,No
+2257-BOVXD,0.2197606116533279,LOW,MONITOR,14,66.6,979.5,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No
+9822-BIIGN,0.1586913764476776,LOW,MONITOR,53,71.85,3827.9,Month-to-month,DSL,Electronic check,Yes,Yes,No,No
+1136-XGEQU,0.109529435634613,LOW,MONITOR,50,84.15,4164.4,One year,DSL,Credit card (automatic),Yes,No,Yes,No
+2439-LYPMQ,0.5633826851844788,MEDIUM,ENGAGE,38,102.6,4009.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+6543-XRMYR,0.5870958566665649,MEDIUM,ENGAGE,30,99.7,2967.35,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5753-QQWPW,0.057000383734703,LOW,MONITOR,28,59.9,1654.7,One year,DSL,Electronic check,Yes,Yes,Yes,No
+4785-QRJHC,0.1719790548086166,LOW,MONITOR,46,59.9,2816.65,One year,DSL,Bank transfer (automatic),Yes,No,Yes,Yes
+0052-YNYOT,0.0178720168769359,LOW,MONITOR,67,20.55,1343.4,One year,No,Electronic check,No internet service,No internet service,No,No
+7054-LGEQW,0.4878257811069488,MEDIUM,ENGAGE,1,45.95,45.95,Month-to-month,DSL,Mailed check,No,No,No,Yes
+0608-JDVEC,0.0146218165755271,LOW,MONITOR,50,19.8,1013.2,Two year,No,Electronic check,No internet service,No internet service,No,No
+6284-KMNUF,0.2297127544879913,LOW,MONITOR,56,98.0,5270.6,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+6286-SUUWT,0.3807021677494049,MEDIUM,ENGAGE,1,19.95,19.95,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+3594-KADLU,0.2302116900682449,LOW,MONITOR,3,35.1,101.1,Month-to-month,DSL,Mailed check,Yes,Yes,No,No
+0536-ACXIP,0.0407037809491157,LOW,MONITOR,72,109.55,8165.1,Two year,Fiber optic,Electronic check,No,Yes,Yes,No
+8869-TORSS,0.0422377772629261,LOW,MONITOR,48,60.35,2896.4,One year,DSL,Credit card (automatic),Yes,Yes,Yes,Yes
+0373-AIVNJ,0.0630499422550201,LOW,MONITOR,9,39.55,373.0,One year,DSL,Mailed check,No,Yes,No,No
+6429-SHBCB,0.1113284304738044,LOW,MONITOR,19,69.6,1394.55,Month-to-month,DSL,Mailed check,No,No,No,No
+5751-USDBL,0.0137619422748684,LOW,MONITOR,46,81.0,3846.35,Two year,DSL,Mailed check,Yes,Yes,No,No
+6815-ABQFQ,0.3075271546840668,MEDIUM,ENGAGE,56,107.25,6033.3,One year,Fiber optic,Electronic check,Yes,No,Yes,No
+9450-TRJUU,0.4917463064193725,MEDIUM,ENGAGE,35,83.15,2848.45,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+2805-AUFQN,0.00797123555094,LOW,MONITOR,25,19.8,475.2,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+7855-DIWPO,0.5009691119194031,MEDIUM,ENGAGE,21,68.65,1493.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+0174-QRVVY,0.002449300372973,LOW,MONITOR,71,25.35,1847.55,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+9507-EXLTT,0.863138735294342,HIGH,URGENT,1,79.35,79.35,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+8390-FESFV,0.0121772242709994,LOW,MONITOR,62,84.5,5193.2,Two year,DSL,Bank transfer (automatic),Yes,No,No,No
+0661-KBKPA,0.1247462108731269,LOW,MONITOR,53,78.75,3942.45,One year,DSL,Mailed check,Yes,No,Yes,No
+6856-RAURS,0.6774111390113831,HIGH,URGENT,2,74.9,136.05,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+7322-OCWHC,0.0024499844294041,LOW,MONITOR,72,93.05,6735.05,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+2203-GHNWN,0.3535696864128113,MEDIUM,ENGAGE,24,79.65,1928.7,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+3413-CSSTH,0.1536544114351272,LOW,MONITOR,41,55.7,2237.55,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+3006-XIMLN,0.8319339752197266,HIGH,URGENT,2,94.2,193.8,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+3750-CKVKH,0.6361236572265625,HIGH,URGENT,2,67.75,116.65,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0576-WNXXC,0.4870745241641998,MEDIUM,ENGAGE,27,95.55,2510.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7056-IMHCC,0.6655171513557434,HIGH,URGENT,53,101.9,5549.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0866-QLSIR,0.0356812663376331,LOW,MONITOR,34,64.4,2088.75,One year,DSL,Mailed check,Yes,Yes,Yes,Yes
+1628-BIZYP,0.8477659821510315,HIGH,URGENT,1,85.0,85.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2230-XTUWL,0.0088078659027814,LOW,MONITOR,48,19.55,883.35,Two year,No,Mailed check,No internet service,No internet service,No,No
+1980-KXVPM,0.6990676522254944,HIGH,URGENT,3,75.05,256.25,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+8619-IJNDK,0.0041945585981011,LOW,MONITOR,71,64.05,4492.9,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+2960-NKRSO,0.2802914381027221,LOW,MONITOR,24,85.95,2107.15,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+6705-LXORM,0.52370685338974,MEDIUM,ENGAGE,5,70.05,302.6,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+7130-VTEWQ,0.7383548617362976,HIGH,URGENT,8,75.75,606.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9364-YKUVW,0.1314589381217956,LOW,MONITOR,15,19.8,309.4,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+2761-OCIAX,0.6021738052368164,HIGH,URGENT,2,74.7,165.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7996-BPXHY,0.0135874915868043,LOW,MONITOR,13,25.0,332.5,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+4248-QPAVC,0.4502213895320892,MEDIUM,ENGAGE,17,85.35,1463.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,Yes,Yes
+9357-UJRUN,0.0606414750218391,LOW,MONITOR,24,58.35,1346.9,One year,DSL,Electronic check,Yes,Yes,Yes,No
+6340-DACFT,0.009207303635776,LOW,MONITOR,50,20.55,1070.25,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+1023-BQXZE,0.0184975620359182,LOW,MONITOR,57,74.35,4317.35,Two year,DSL,Bank transfer (automatic),No,Yes,Yes,No
+5480-HPRRX,0.6828451156616211,HIGH,URGENT,3,25.3,77.75,Month-to-month,DSL,Electronic check,No,No,No,Yes
+9576-SYUHJ,0.3131802082061767,MEDIUM,ENGAGE,37,91.15,3369.25,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+2169-RRLFW,0.0025223933625966,LOW,MONITOR,71,25.6,1888.25,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+8338-QIUNR,0.0042494246736168,LOW,MONITOR,72,66.5,4811.6,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+0463-TXOAK,0.0213733594864606,LOW,MONITOR,52,25.6,1334.5,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+4396-KLSEH,0.1787978708744049,LOW,MONITOR,4,19.85,63.0,Month-to-month,No,Electronic check,No internet service,No internet service,Yes,No
+5186-EJEGL,0.1511140465736389,LOW,MONITOR,9,69.5,653.25,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,No
+9334-GWGOW,0.7537064552307129,HIGH,URGENT,7,74.85,485.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+5696-JVVQY,0.0328437127172946,LOW,MONITOR,48,70.1,3238.4,Two year,DSL,Credit card (automatic),No,Yes,Yes,No
+9633-DENPU,0.1629427373409271,LOW,MONITOR,47,58.6,2723.4,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+0581-BXBUB,0.4644325673580169,MEDIUM,ENGAGE,4,72.75,317.75,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+2750-BJLSB,0.2321533858776092,LOW,MONITOR,47,103.7,4730.6,One year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+2770-NSVDG,0.3388560712337494,MEDIUM,ENGAGE,24,29.1,688.0,Month-to-month,DSL,Electronic check,No,No,No,No
+8280-MQRQN,0.5540627241134644,MEDIUM,ENGAGE,1,50.45,50.45,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+7851-FLGGQ,0.4320471584796905,MEDIUM,ENGAGE,1,44.65,44.65,Month-to-month,DSL,Mailed check,Yes,No,Yes,Yes
+9374-YOLBJ,0.3399268686771393,MEDIUM,ENGAGE,1,19.25,19.25,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+6583-SZVGP,0.2648634612560272,LOW,MONITOR,48,108.1,5067.45,Two year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+2150-OEGBV,0.0241805482655763,LOW,MONITOR,27,20.1,562.6,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+9372-TXXPS,0.004421139601618,LOW,MONITOR,60,59.85,3483.45,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+6933-FHBZC,0.0519294217228889,LOW,MONITOR,26,56.05,1553.2,One year,DSL,Mailed check,No,No,Yes,No
+4698-KVLLG,0.0073188422247767,LOW,MONITOR,51,19.6,967.9,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+8752-STIVR,0.729749858379364,HIGH,URGENT,4,79.0,303.15,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8623-ULFNQ,0.1674017161130905,LOW,MONITOR,26,66.05,1652.4,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+9822-WMWVG,0.4058984220027923,MEDIUM,ENGAGE,41,106.5,4282.4,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No
+4304-TSPVK,0.0831821039319038,LOW,MONITOR,68,114.9,7843.55,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No
+1716-LSAMB,0.0243064705282449,LOW,MONITOR,45,54.65,2553.7,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+3523-QRQLL,0.1977050006389618,LOW,MONITOR,22,69.5,1498.2,One year,DSL,Bank transfer (automatic),No,No,Yes,Yes
+2187-PKZAY,0.5534966588020325,MEDIUM,ENGAGE,12,79.95,1043.4,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+1895-QTKDO,0.4515493810176849,MEDIUM,ENGAGE,1,43.95,43.95,Month-to-month,DSL,Credit card (automatic),No,No,No,No
+8161-QYMTT,0.8479148149490356,HIGH,URGENT,7,94.1,701.3,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2955-PSXOE,0.356509119272232,MEDIUM,ENGAGE,1,20.2,20.2,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,Yes,Yes
+6834-NXDCA,0.6314529776573181,HIGH,URGENT,13,23.9,300.8,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+8701-DGLVH,0.0100912395864725,LOW,MONITOR,51,20.45,1042.65,Two year,No,Mailed check,No internet service,No internet service,No,No
+2480-SQIOB,0.3800342381000519,MEDIUM,ENGAGE,4,44.8,169.65,Month-to-month,DSL,Electronic check,No,No,No,No
+4993-JCRGJ,0.3342368304729461,MEDIUM,ENGAGE,26,84.3,2281.6,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,No
+0581-MDMPW,0.4039657711982727,MEDIUM,ENGAGE,24,88.95,2072.75,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+7789-CRUVC,0.0913489162921905,LOW,MONITOR,61,94.2,5895.45,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+0164-APGRB,0.0212169159203767,LOW,MONITOR,72,114.9,8496.7,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+8034-RYTVV,0.049006201326847,LOW,MONITOR,55,84.25,4589.85,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+3018-TFTSU,0.2660080194473266,LOW,MONITOR,12,81.7,858.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,Yes
+9777-IQHWP,0.0287795271724462,LOW,MONITOR,64,93.4,5822.3,Two year,Fiber optic,Bank transfer (automatic),No,Yes,No,No
+6899-PPEEA,0.640609622001648,HIGH,URGENT,37,96.55,3580.3,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6701-YVNQG,0.0016873964341357,LOW,MONITOR,72,88.7,6301.7,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+7649-PHJVR,0.0290756560862064,LOW,MONITOR,11,19.5,226.8,One year,No,Mailed check,No internet service,No internet service,No,No
+9278-VZKCD,0.3785052597522735,MEDIUM,ENGAGE,52,109.1,5647.95,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No
+7636-PEPNS,0.0673787593841552,LOW,MONITOR,58,44.1,2413.05,One year,DSL,Mailed check,No,No,Yes,No
+1575-KRZZE,0.356871098279953,MEDIUM,ENGAGE,4,55.2,220.65,Month-to-month,DSL,Electronic check,No,Yes,No,No
+8590-OHDIW,0.0120410043746232,LOW,MONITOR,38,20.3,749.35,One year,No,Mailed check,No internet service,No internet service,No,No
+7764-BDPEE,0.1552919149398803,LOW,MONITOR,3,20.85,60.65,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+9480-BQJEI,0.0357711128890514,LOW,MONITOR,62,92.3,5731.45,One year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No
+3354-OADJP,0.0565095394849777,LOW,MONITOR,8,54.25,447.75,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+3181-MIZBN,0.1484656780958175,LOW,MONITOR,16,19.75,313.4,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+9327-QSDED,0.2350291609764099,LOW,MONITOR,8,43.55,335.4,Month-to-month,DSL,Mailed check,No,No,No,No
+4892-VLANZ,0.3197006583213806,MEDIUM,ENGAGE,1,19.8,19.8,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+0298-XACET,0.0255837794393301,LOW,MONITOR,52,50.2,2554.0,Two year,DSL,Mailed check,Yes,No,No,No
+6917-FIJHC,0.0009197188192047,LOW,MONITOR,72,26.0,1776.0,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+6557-BZXLQ,0.5545253753662109,MEDIUM,ENGAGE,16,69.65,1043.3,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+2432-TFSMK,0.13247811794281,LOW,MONITOR,18,89.6,1633.0,One year,Fiber optic,Credit card (automatic),No,No,Yes,No
+4211-MMAZN,0.2606678009033203,LOW,MONITOR,1,20.25,20.25,Month-to-month,No,Mailed check,No internet service,No internet service,No,Yes
+4751-ERMAN,0.0375832915306091,LOW,MONITOR,72,75.4,5480.25,Two year,DSL,Bank transfer (automatic),No,No,Yes,No
+8430-TWCBX,0.0171459298580884,LOW,MONITOR,49,20.7,1032.05,One year,No,Credit card (automatic),No internet service,No internet service,No,No
+1942-OQFRW,0.4954653680324554,MEDIUM,ENGAGE,1,44.0,44.0,Month-to-month,DSL,Electronic check,No,No,No,No
+4075-JFPGR,0.1088254526257515,LOW,MONITOR,51,93.5,4619.55,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+3339-EAQNV,0.0700209811329841,LOW,MONITOR,72,97.25,7133.1,One year,Fiber optic,Credit card (automatic),No,No,Yes,No
+5329-KRDTM,0.0123144136741757,LOW,MONITOR,72,77.35,5396.25,Two year,DSL,Credit card (automatic),Yes,No,No,No
+0307-BCOPK,0.0058273999020457,LOW,MONITOR,16,19.05,326.65,One year,No,Mailed check,No internet service,No internet service,No,No
+6473-ULUHT,0.1842676699161529,LOW,MONITOR,16,84.9,1398.25,Month-to-month,DSL,Electronic check,Yes,Yes,No,No
+1194-SPVSP,0.2564901113510132,LOW,MONITOR,1,19.65,19.65,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,No
+7249-WBIYX,0.7811139822006226,HIGH,URGENT,10,85.6,813.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2293-IJWPS,0.2786537408828735,LOW,MONITOR,57,100.75,5985.0,One year,Fiber optic,Credit card (automatic),No,No,Yes,No
+4377-VDHYI,0.1436658650636673,LOW,MONITOR,32,90.8,3023.85,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+0019-EFAEP,0.0075242458842694,LOW,MONITOR,72,101.3,7261.25,Two year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No
+2480-EJWYP,0.2558859586715698,LOW,MONITOR,58,97.8,5458.8,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+8970-ANWXO,0.1116947457194328,LOW,MONITOR,23,73.75,1756.6,One year,DSL,Mailed check,Yes,No,Yes,No
+8739-WWKDU,0.6936274766921997,HIGH,URGENT,25,89.5,2196.15,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2171-UDMFD,0.0548865497112274,LOW,MONITOR,32,19.45,674.55,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+7036-TYDEC,0.1538780927658081,LOW,MONITOR,69,104.0,7028.5,Two year,Fiber optic,Electronic check,Yes,No,No,No
+3831-YCPUO,0.0030530467629432,LOW,MONITOR,72,109.5,7854.9,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+0121-SNYRK,0.0228295270353555,LOW,MONITOR,50,35.4,1748.9,One year,DSL,Mailed check,Yes,Yes,Yes,No
+3325-FUYCG,0.1701208353042602,LOW,MONITOR,28,106.1,2847.4,One year,Fiber optic,Electronic check,No,Yes,No,Yes
+1952-DVVSW,0.043627131730318,LOW,MONITOR,10,20.1,184.4,One year,No,Mailed check,No internet service,No internet service,No,No
+3571-DPYUH,0.0584749467670917,LOW,MONITOR,58,94.7,5430.35,One year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+2077-MPJQO,0.7249667644500732,HIGH,URGENT,7,75.4,533.05,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2391-SOORI,0.3173495233058929,MEDIUM,ENGAGE,4,49.35,219.65,Month-to-month,DSL,Electronic check,No,Yes,No,Yes
+4086-ATNFV,0.0310421753674745,LOW,MONITOR,34,60.8,2042.05,One year,DSL,Mailed check,No,Yes,Yes,No
+3396-DKDEL,0.0451547615230083,LOW,MONITOR,70,115.15,8250.0,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+7471-MQPOS,0.056348867714405,LOW,MONITOR,71,72.9,5139.65,One year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+7181-OQCUT,0.5773229598999023,MEDIUM,ENGAGE,21,103.85,2215.0,Month-to-month,Fiber optic,Mailed check,No,Yes,No,No
+3489-VSFRD,0.0278557762503623,LOW,MONITOR,56,60.25,3282.75,One year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+6283-GITPX,0.0042663621716201,LOW,MONITOR,71,76.9,5522.7,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+2845-HSJCY,0.593625009059906,MEDIUM,ENGAGE,14,87.25,1258.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7216-KAOID,0.0277515817433595,LOW,MONITOR,41,19.5,798.2,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+6680-WKXRZ,0.5524536967277527,MEDIUM,ENGAGE,3,74.4,215.8,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+2346-LOCWC,0.0132199916988611,LOW,MONITOR,58,20.5,1191.4,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+0769-MURVM,0.0025572218000888,LOW,MONITOR,72,65.7,4575.35,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+3374-LXDEV,0.7215547561645508,HIGH,URGENT,13,89.4,1132.35,Month-to-month,Fiber optic,Electronic check,Yes,No,No,Yes
+5318-YKDPV,0.0156174786388874,LOW,MONITOR,43,79.15,3566.6,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+8190-ZTQFB,0.2175268679857254,LOW,MONITOR,41,51.35,2075.1,One year,DSL,Electronic check,No,No,Yes,No
+4512-ZUIYL,0.4596269726753235,MEDIUM,ENGAGE,2,70.0,153.05,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+3090-QFUVD,0.2548777163028717,LOW,MONITOR,1,20.3,20.3,Month-to-month,No,Credit card (automatic),No internet service,No internet service,No,No
+4806-KEXQR,0.706393301486969,HIGH,URGENT,4,79.9,324.3,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2369-FEVNO,0.5149064064025879,MEDIUM,ENGAGE,1,19.9,19.9,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+9637-CDTKZ,0.0037396689876914,LOW,MONITOR,72,114.1,8086.4,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+2954-PIBKO,0.0131503473967313,LOW,MONITOR,69,64.15,4254.1,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+2212-LYASK,0.1217938363552093,LOW,MONITOR,27,45.85,1246.4,One year,DSL,Credit card (automatic),No,No,Yes,No
+9481-SFCQY,0.2261437028646469,LOW,MONITOR,14,59.8,824.85,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+2828-SLQPF,0.2094817906618118,LOW,MONITOR,19,45.0,865.85,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+4647-MUZON,0.4652319252490997,MEDIUM,ENGAGE,18,95.95,1745.5,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+8212-DJRCH,0.5325891375541687,MEDIUM,ENGAGE,5,90.35,434.5,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,No
+0516-OOHAR,0.1461849510669708,LOW,MONITOR,28,100.35,2799.0,One year,Fiber optic,Bank transfer (automatic),No,No,No,No
+4973-RLZVI,0.0561615079641342,LOW,MONITOR,30,74.65,2308.6,One year,DSL,Credit card (automatic),Yes,Yes,No,No
+8089-UZWLX,0.2162405550479889,LOW,MONITOR,71,104.05,7413.55,Two year,Fiber optic,Bank transfer (automatic),No,No,No,No
+9732-KPKBW,0.3303914368152618,MEDIUM,ENGAGE,1,53.95,53.95,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,Yes
+9715-WZCLW,0.0390761420130729,LOW,MONITOR,71,97.2,6910.3,Two year,Fiber optic,Electronic check,No,Yes,Yes,No
+0257-KXZGU,0.1026045680046081,LOW,MONITOR,32,62.45,2045.55,Month-to-month,DSL,Bank transfer (automatic),No,No,No,No
+0707-HOVVN,0.0995893627405166,LOW,MONITOR,70,75.5,5212.65,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,No
+5501-TVMGM,0.682558000087738,HIGH,URGENT,1,55.25,55.25,Month-to-month,DSL,Electronic check,No,No,Yes,No
+3422-LYEPQ,0.8135793805122375,HIGH,URGENT,1,71.0,71.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2277-VWCNI,0.4907463490962982,MEDIUM,ENGAGE,4,48.75,179.85,Month-to-month,DSL,Mailed check,No,No,No,No
+5461-QKNTN,0.3176220655441284,MEDIUM,ENGAGE,43,94.3,3953.15,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+3967-KXAPS,0.00159838644322,LOW,MONITOR,72,92.3,6719.9,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+6919-ELBGL,0.0232800766825675,LOW,MONITOR,72,114.95,8196.4,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+8361-LTMKD,0.7296079993247986,HIGH,URGENT,4,74.4,306.6,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes
+1131-ALZWV,0.0219502039253711,LOW,MONITOR,24,24.6,605.25,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+5178-LMXOP,0.9255762696266174,HIGH,URGENT,1,95.1,95.1,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8992-CEUEN,0.1001499965786933,LOW,MONITOR,1,18.85,18.85,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+3320-VEOYC,0.7223583459854126,HIGH,URGENT,14,95.6,1273.3,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+3672-YITQD,0.6536825895309448,HIGH,URGENT,36,84.1,3021.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6080-TCMYC,0.4525362849235534,MEDIUM,ENGAGE,40,81.2,3292.3,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+6734-FQAJX,0.1473708301782608,LOW,MONITOR,67,105.05,7171.7,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+1063-DHQJF,0.0200509298592805,LOW,MONITOR,69,92.15,6480.9,Two year,Fiber optic,Mailed check,Yes,No,Yes,No
+3976-NLDEZ,0.3972699046134949,MEDIUM,ENGAGE,1,20.6,20.6,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+1729-VLAZJ,0.0378585942089557,LOW,MONITOR,10,40.25,411.45,One year,DSL,Mailed check,Yes,Yes,No,No
+3400-ESFUW,0.0191053859889507,LOW,MONITOR,55,57.55,3046.4,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,Yes
+5271-YNWVR,0.0479708611965179,LOW,MONITOR,68,113.15,7856.0,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,Yes
+1587-FKLZB,0.4531443417072296,MEDIUM,ENGAGE,66,99.5,6822.15,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+0958-YHXGP,0.5032733082771301,MEDIUM,ENGAGE,7,69.9,497.3,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+1494-EJZDW,0.0112715829163789,LOW,MONITOR,10,20.15,220.8,Two year,No,Mailed check,No internet service,No internet service,No,No
+1816-FLZDK,0.3539388477802276,MEDIUM,ENGAGE,1,29.15,29.15,Month-to-month,DSL,Mailed check,Yes,No,No,No
+2075-PUEPR,0.0845809504389762,LOW,MONITOR,55,19.35,1153.25,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+1833-TCXKK,0.4640319347381592,MEDIUM,ENGAGE,45,107.75,4882.8,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+1436-ZMJAN,0.2445671409368515,LOW,MONITOR,10,67.8,653.15,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+0106-UGRDO,0.086696021258831,LOW,MONITOR,69,116.0,8182.85,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+1069-XAIEM,0.9309099912643432,HIGH,URGENT,1,85.05,85.05,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4213-HKBJO,0.0192697364836931,LOW,MONITOR,33,25.7,826.1,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+8345-MVDYC,0.0114103807136416,LOW,MONITOR,45,81.65,3618.7,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+2672-OJQZP,0.4468738138675689,MEDIUM,ENGAGE,1,44.75,44.75,Month-to-month,DSL,Mailed check,No,No,No,No
+5136-RGMZO,0.1806300729513168,LOW,MONITOR,31,71.05,2168.15,Month-to-month,DSL,Electronic check,Yes,No,Yes,No
+5774-QPLTF,0.0096744466572999,LOW,MONITOR,50,20.35,938.95,One year,No,Mailed check,No internet service,No internet service,Yes,No
+5240-CAOYT,0.0816631615161895,LOW,MONITOR,57,87.55,4884.85,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+3707-GNWHM,0.8200510144233704,HIGH,URGENT,1,74.25,74.25,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes
+5159-YFPKQ,0.6835245490074158,HIGH,URGENT,2,75.8,160.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5052-PNLOS,0.7859117984771729,HIGH,URGENT,3,105.35,323.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+6173-GOLSU,0.4419070184230804,MEDIUM,ENGAGE,67,94.65,6079.0,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+6661-HBGWL,0.6033603549003601,HIGH,URGENT,42,104.75,4323.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+8207-VVMYB,0.0059574558399617,LOW,MONITOR,70,26.0,2006.95,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+5324-KTGCG,0.0143021000549197,LOW,MONITOR,71,20.85,1539.75,One year,No,Electronic check,No internet service,No internet service,No,No
+7354-OIJLX,0.7099770903587341,HIGH,URGENT,9,75.85,724.65,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+9286-BHDQG,0.0032947671134024,LOW,MONITOR,72,45.25,3139.8,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+3567-PQTSO,0.1864682734012603,LOW,MONITOR,53,105.25,5576.3,One year,Fiber optic,Electronic check,No,No,Yes,No
+3197-ARFOY,0.5862541198730469,MEDIUM,ENGAGE,19,105.0,2007.25,Month-to-month,Fiber optic,Mailed check,Yes,Yes,Yes,No
+5698-BQJOH,0.7065231800079346,HIGH,URGENT,9,94.4,857.25,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+1090-ESELR,0.0081596365198493,LOW,MONITOR,72,105.5,7611.55,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No
+0056-EPFBG,0.0163237731903791,LOW,MONITOR,20,39.4,825.4,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+4955-VCWBI,0.0173540208488702,LOW,MONITOR,43,20.0,817.95,One year,No,Mailed check,No internet service,No internet service,No,No
+4717-GHADL,0.0339673981070518,LOW,MONITOR,50,79.6,4024.2,Two year,DSL,Mailed check,Yes,No,Yes,No
+0058-EVZWM,0.1436562091112136,LOW,MONITOR,55,89.8,4959.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No
+7218-HKQFK,0.7110804319381714,HIGH,URGENT,2,94.2,167.5,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes
+5057-RKGLH,0.0061152908019721,LOW,MONITOR,9,20.35,191.1,Two year,No,Mailed check,No internet service,No internet service,No,No
+2309-OSFEU,0.4404763579368591,MEDIUM,ENGAGE,10,33.9,298.45,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+3429-IFLEM,0.004649369046092,LOW,MONITOR,71,77.35,5550.1,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+1550-LOAHA,0.375393658876419,MEDIUM,ENGAGE,32,84.15,2585.95,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+1400-MMYXY,0.854938805103302,HIGH,URGENT,3,105.9,334.65,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7503-QQRVF,0.4777148067951202,MEDIUM,ENGAGE,16,74.3,1178.25,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+7504-UWHNB,0.3309148550033569,MEDIUM,ENGAGE,25,69.75,1729.35,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+9565-JSNFM,0.1022235229611396,LOW,MONITOR,38,70.45,2597.6,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+4735-BJKOU,0.0071302512660622,LOW,MONITOR,40,20.15,804.85,Two year,No,Mailed check,No internet service,No internet service,No,No
+3580-GICBM,0.0096835736185312,LOW,MONITOR,61,24.2,1445.2,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+7632-YUTXB,0.0145842572674155,LOW,MONITOR,25,20.05,520.1,One year,No,Mailed check,No internet service,No internet service,No,No
+9412-ARGBX,0.0241579320281744,LOW,MONITOR,48,95.5,4627.85,Two year,Fiber optic,Mailed check,Yes,No,Yes,Yes
+9576-ANLXO,0.5286995768547058,MEDIUM,ENGAGE,3,69.55,222.3,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+1110-KYLGQ,0.1550800949335098,LOW,MONITOR,63,108.25,6780.1,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,No,No
+8696-JKZNU,0.5339034795761108,MEDIUM,ENGAGE,37,76.25,2841.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8757-TFHHJ,0.3988948166370392,MEDIUM,ENGAGE,1,49.8,49.8,Month-to-month,DSL,Credit card (automatic),No,Yes,Yes,No
+2955-BJZHG,0.3793236017227173,MEDIUM,ENGAGE,17,80.85,1400.85,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+9048-JVYVF,0.3324110805988312,MEDIUM,ENGAGE,3,69.35,191.35,Month-to-month,DSL,Electronic check,Yes,No,Yes,Yes
+0682-USIXD,0.361815869808197,MEDIUM,ENGAGE,21,86.05,1818.9,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No
+3884-UEBXB,0.0081305438652634,LOW,MONITOR,67,36.15,2434.45,Two year,DSL,Bank transfer (automatic),No,Yes,No,No
+1776-SPBWV,0.0369094982743263,LOW,MONITOR,34,20.1,682.1,One year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+9050-QLROH,0.3826321363449096,MEDIUM,ENGAGE,18,90.7,1597.25,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+2925-VDZHY,0.0015663659432902,LOW,MONITOR,72,88.7,6501.35,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+9512-UIBFX,0.289279967546463,LOW,MONITOR,18,95.15,1779.95,Month-to-month,Fiber optic,Mailed check,No,No,No,Yes
+8676-TRMJS,0.5413037538528442,MEDIUM,ENGAGE,3,75.0,209.1,Month-to-month,Fiber optic,Mailed check,No,No,No,Yes
+3334-CTHOL,0.5442938208580017,MEDIUM,ENGAGE,1,49.95,49.95,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,Yes
+6331-LWDTQ,0.3508840799331665,MEDIUM,ENGAGE,10,72.15,794.25,Month-to-month,DSL,Credit card (automatic),No,No,Yes,Yes
+3847-BAERP,0.1364981979131698,LOW,MONITOR,10,20.9,247.0,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+4709-LKHYG,0.0276235658675432,LOW,MONITOR,29,20.0,540.05,One year,No,Electronic check,No internet service,No internet service,No,No
+8621-MNIHH,0.5110069513320923,MEDIUM,ENGAGE,34,94.25,3217.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8884-ADFVN,0.8763473629951477,HIGH,URGENT,7,101.95,700.85,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2885-HIJDH,0.0442776307463645,LOW,MONITOR,69,86.9,6194.1,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+8570-KLJYJ,0.0269360095262527,LOW,MONITOR,36,54.45,1893.5,One year,DSL,Mailed check,No,Yes,No,No
+9339-FIIJL,0.0081321783363819,LOW,MONITOR,72,85.95,6151.9,Two year,DSL,Bank transfer (automatic),Yes,No,No,No
+6223-DHJGV,0.0111413765698671,LOW,MONITOR,42,20.65,958.1,One year,No,Mailed check,No internet service,No internet service,Yes,No
+0959-WHOKV,0.2829502820968628,LOW,MONITOR,42,99.0,4298.45,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+9610-WCESF,0.0650549754500389,LOW,MONITOR,67,43.9,3097.2,Two year,DSL,Electronic check,Yes,Yes,No,No
+9279-CJEOJ,0.5290148258209229,MEDIUM,ENGAGE,21,95.4,2025.1,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+2985-FMWYF,0.6755382418632507,HIGH,URGENT,23,93.5,2341.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+3540-RZJYU,0.3300719261169433,MEDIUM,ENGAGE,15,86.2,1270.2,Month-to-month,Fiber optic,Electronic check,No,Yes,No,Yes
+2522-WLNSF,0.0477862805128097,LOW,MONITOR,34,64.2,2106.3,One year,DSL,Bank transfer (automatic),Yes,No,No,No
+6861-XWTWQ,0.9253414273262024,HIGH,URGENT,7,99.25,665.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8735-NBLWT,0.0495455004274845,LOW,MONITOR,9,20.4,184.1,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+1744-JHKYS,0.0501447021961212,LOW,MONITOR,34,24.7,780.2,Month-to-month,No,Electronic check,No internet service,No internet service,No,No
+0841-NULXI,0.8045028448104858,HIGH,URGENT,1,35.55,35.55,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+4016-BJKTZ,0.2436230182647705,LOW,MONITOR,25,108.9,2809.05,Two year,Fiber optic,Electronic check,Yes,No,No,No
+9298-WGMRW,0.0150459436699748,LOW,MONITOR,72,115.5,8312.75,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+7893-IXHRQ,0.3679894506931305,MEDIUM,ENGAGE,1,20.55,20.55,Month-to-month,No,Electronic check,No internet service,No internet service,No,Yes
+8785-CJSHH,0.4526085555553436,MEDIUM,ENGAGE,60,99.8,5985.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+7654-YWJUF,0.0678215026855468,LOW,MONITOR,43,84.25,3539.25,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+8909-BOLNL,0.0567909963428974,LOW,MONITOR,3,21.2,52.05,One year,No,Mailed check,No internet service,No internet service,No,No
+9919-FZDED,0.0041035562753677,LOW,MONITOR,72,84.1,5981.65,Two year,DSL,Credit card (automatic),No,Yes,Yes,No
+0322-CHQRU,0.5064266920089722,MEDIUM,ENGAGE,2,45.35,89.5,Month-to-month,DSL,Electronic check,No,No,No,Yes
+3587-PMCOY,0.6130165457725525,HIGH,URGENT,10,98.9,1064.95,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+0655-RBDUG,0.9166057109832764,HIGH,URGENT,7,98.05,713.0,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+0983-TATYJ,0.0405263677239418,LOW,MONITOR,33,51.45,1758.9,One year,DSL,Mailed check,Yes,No,Yes,No
+5650-YLIBA,0.5489034652709961,MEDIUM,ENGAGE,31,81.15,2640.55,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+5144-TVGLP,0.5198179483413696,MEDIUM,ENGAGE,38,94.75,3653.0,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+3569-EDBPQ,0.332099974155426,MEDIUM,ENGAGE,24,84.35,1938.05,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No
+4945-RVMTE,0.1215555071830749,LOW,MONITOR,28,59.55,1646.45,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+3511-BFTJW,0.0045703314244747,LOW,MONITOR,72,38.5,2763.0,Two year,DSL,Credit card (automatic),No,Yes,No,No
+5537-UXXVS,0.0612285211682319,LOW,MONITOR,20,19.25,375.25,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,No
+8782-NUUOL,0.0440577156841754,LOW,MONITOR,60,79.0,4801.1,One year,DSL,Mailed check,Yes,Yes,No,No
+2865-TCHJW,0.8207101225852966,HIGH,URGENT,4,89.2,346.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9931-KGHOA,0.1297911703586578,LOW,MONITOR,46,55.0,2473.95,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,No
+3071-MVJCD,0.0024821409024298,LOW,MONITOR,72,82.3,5815.15,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+7279-BUYWN,0.686079740524292,HIGH,URGENT,41,113.2,4689.5,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+3756-VNWDH,0.1595078855752945,LOW,MONITOR,65,100.75,6674.65,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+1395-OFUWC,0.2917650043964386,LOW,MONITOR,43,29.3,1224.05,Month-to-month,DSL,Credit card (automatic),No,No,No,No
+4223-BKEOR,0.051717609167099,LOW,MONITOR,21,64.85,1336.8,One year,DSL,Mailed check,No,Yes,No,No
+0040-HALCW,0.0105519425123929,LOW,MONITOR,54,20.4,1090.6,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+7124-UGSUR,0.2136338502168655,LOW,MONITOR,61,104.4,6405.0,One year,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+7395-XWZOY,0.3473132848739624,MEDIUM,ENGAGE,20,55.0,1165.55,Month-to-month,DSL,Credit card (automatic),Yes,Yes,Yes,No
+5440-VHLUL,0.3990275263786316,MEDIUM,ENGAGE,69,105.2,7386.05,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+4706-DGAHW,0.7078068256378174,HIGH,URGENT,1,45.2,45.2,Month-to-month,DSL,Electronic check,No,No,No,No
+8166-ORCHU,0.1909612119197845,LOW,MONITOR,33,93.55,3055.5,One year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+3978-YNKDD,0.0073662474751472,LOW,MONITOR,19,20.85,467.5,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+7198-GLXTC,0.642132580280304,HIGH,URGENT,2,79.0,143.65,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+6366-XIVKZ,0.1763791143894195,LOW,MONITOR,13,63.15,816.8,Month-to-month,DSL,Mailed check,No,Yes,Yes,No
+5133-POWUA,0.5831454396247864,MEDIUM,ENGAGE,1,45.8,45.8,Month-to-month,DSL,Mailed check,No,No,Yes,No
+8400-WZICQ,0.1571917980909347,LOW,MONITOR,55,55.7,3131.8,Month-to-month,DSL,Electronic check,No,Yes,No,No
+5382-SOYZL,0.6525062322616577,HIGH,URGENT,22,95.1,2162.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+1989-PRJHP,0.3938253819942474,MEDIUM,ENGAGE,27,75.5,1893.95,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+4154-AQUGT,0.5497258305549622,MEDIUM,ENGAGE,13,89.05,1169.35,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes
+0980-FEXWF,0.0241695512086153,LOW,MONITOR,26,50.35,1285.8,One year,DSL,Mailed check,No,No,No,No
+5845-BZZIB,0.0090187964960932,LOW,MONITOR,35,20.1,655.3,Two year,No,Mailed check,No internet service,No internet service,No,No
+4840-ORQXB,0.4527161121368408,MEDIUM,ENGAGE,56,104.75,5841.35,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+0295-PPHDO,0.9303827285766602,HIGH,URGENT,1,95.45,95.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8775-ERLNB,0.8338655829429626,HIGH,URGENT,1,74.3,74.3,Month-to-month,Fiber optic,Electronic check,No,No,No,No
+0376-YMCJC,0.4338593482971191,MEDIUM,ENGAGE,23,90.6,1943.2,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes
+7410-YTJIK,0.4552229344844818,MEDIUM,ENGAGE,7,75.45,480.75,Month-to-month,Fiber optic,Mailed check,No,No,No,Yes
+9927-DSWDF,0.5564714670181274,MEDIUM,ENGAGE,22,104.6,2180.55,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No
+6681-ZSEXG,0.024509459733963,LOW,MONITOR,56,59.5,3389.25,Two year,DSL,Credit card (automatic),No,No,No,No
+5702-KVQRD,0.013422311283648,LOW,MONITOR,71,82.55,5832.65,Two year,DSL,Electronic check,Yes,Yes,Yes,No
+8711-LOBKY,0.0242101736366748,LOW,MONITOR,59,19.85,1188.25,Two year,No,Mailed check,No internet service,No internet service,No,No
+9692-TUSXH,0.6264067888259888,HIGH,URGENT,18,96.05,1740.7,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+4012-YCFAI,0.0056212302297353,LOW,MONITOR,60,61.35,3766.2,Two year,DSL,Mailed check,Yes,Yes,Yes,No
+8455-HIRAQ,0.1839173734188079,LOW,MONITOR,8,44.45,369.3,Month-to-month,DSL,Mailed check,No,No,No,No
+7853-WNZSY,0.2346684336662292,LOW,MONITOR,1,19.75,19.75,Month-to-month,No,Credit card (automatic),No internet service,No internet service,Yes,No
+0390-DCFDQ,0.8002615571022034,HIGH,URGENT,1,70.45,70.45,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes
+6421-SZVEM,0.103813000023365,LOW,MONITOR,28,82.85,2320.8,One year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No
+3094-JOJAI,0.203323483467102,LOW,MONITOR,18,74.15,1387.0,Month-to-month,Fiber optic,Mailed check,No,No,No,No
+4873-ILOLJ,0.4997986853122711,MEDIUM,ENGAGE,24,90.35,2238.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8181-YHCMF,0.0093171270564198,LOW,MONITOR,68,60.3,4109.0,Two year,DSL,Credit card (automatic),Yes,No,No,No
+3324-OIRTO,0.063960500061512,LOW,MONITOR,71,104.65,7288.4,One year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No
+9135-HSWOC,0.0115712033584713,LOW,MONITOR,64,19.7,1274.05,Two year,No,Bank transfer (automatic),No internet service,No internet service,Yes,No
+2272-WUSPA,0.0080526508390903,LOW,MONITOR,72,110.75,7751.7,Two year,Fiber optic,Electronic check,No,Yes,Yes,No
+4627-MIHJH,0.2154739946126938,LOW,MONITOR,69,110.25,7467.55,Two year,Fiber optic,Credit card (automatic),Yes,Yes,No,No
+3896-RCYYE,0.0630678087472915,LOW,MONITOR,67,53.4,3579.15,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No
+6729-GDNGC,0.2986064553260803,LOW,MONITOR,20,80.7,1614.2,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No
+9945-PSVIP,0.0059030437842011,LOW,MONITOR,25,18.7,383.65,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+4137-JOPHL,0.0253872629255056,LOW,MONITOR,50,89.7,4304.5,Two year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No
+2720-FVBQP,0.3214605450630188,MEDIUM,ENGAGE,6,48.95,273.25,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+7854-EKTJL,0.1584860533475875,LOW,MONITOR,2,19.6,35.85,Month-to-month,No,Electronic check,No internet service,No internet service,Yes,Yes
+1133-KXCGE,0.0324464812874794,LOW,MONITOR,18,20.1,407.05,One year,No,Mailed check,No internet service,No internet service,No,No
+6048-QBXKL,0.6271485090255737,HIGH,URGENT,2,56.55,118.25,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No
+6338-AVWCY,0.6525847911834717,HIGH,URGENT,3,40.15,130.75,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+0013-MHZWF,0.2421524375677108,LOW,MONITOR,9,69.4,571.45,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No
+9804-ICWBG,0.8565287590026855,HIGH,URGENT,1,69.9,69.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+2368-GAKKQ,0.0324202328920364,LOW,MONITOR,70,113.65,7939.25,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+4829-AUOAX,0.3841235339641571,MEDIUM,ENGAGE,46,96.05,4399.5,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes
+7876-BEUTG,0.2775201201438904,LOW,MONITOR,15,48.8,720.1,Month-to-month,DSL,Mailed check,No,No,Yes,No
+6349-JDHQP,0.014022659510374,LOW,MONITOR,53,19.85,1049.6,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+3063-QFSZL,0.6969777345657349,HIGH,URGENT,1,55.4,55.4,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+9142-XMYJH,0.0586564615368843,LOW,MONITOR,29,19.35,601.6,Month-to-month,No,Credit card (automatic),No internet service,No internet service,No,No
+2609-IAICY,0.9201025366783142,HIGH,URGENT,1,77.15,77.15,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8626-PTQGE,0.0076854065991938,LOW,MONITOR,69,60.05,4176.7,Two year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+0230-UBYPQ,0.0157944466918706,LOW,MONITOR,63,36.1,2298.9,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+6814-ZPWFQ,0.0558557882905006,LOW,MONITOR,51,25.0,1260.7,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+5921-NGYRH,0.0676172897219657,LOW,MONITOR,64,73.55,4764.0,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,No
+7803-XOCCZ,0.1463036686182022,LOW,MONITOR,52,84.05,4326.8,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+1459-QNFQT,0.0144727919250726,LOW,MONITOR,70,59.5,4144.8,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+3948-FVVRP,0.1635376065969467,LOW,MONITOR,9,54.8,452.8,Month-to-month,DSL,Mailed check,Yes,No,No,No
+0923-PNFUB,0.5137946009635925,MEDIUM,ENGAGE,3,83.75,247.25,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+4654-ULTTN,0.1007862612605094,LOW,MONITOR,70,74.8,5315.8,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+5628-FCGYG,0.6587589979171753,HIGH,URGENT,21,84.1,1737.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+0506-LVNGN,0.528570294380188,MEDIUM,ENGAGE,5,75.55,349.65,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+4329-YPDDQ,0.3820777833461761,MEDIUM,ENGAGE,20,108.2,2203.7,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+9866-OCCKE,0.0039360090158879,LOW,MONITOR,72,109.75,8075.35,Two year,Fiber optic,Mailed check,Yes,Yes,Yes,No
+0794-YVSGE,0.0010911999270319,LOW,MONITOR,72,20.3,1401.15,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+4342-HENTK,0.6082894206047058,HIGH,URGENT,2,70.65,142.35,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+5934-TSSAU,0.2718058228492737,LOW,MONITOR,23,75.3,1702.9,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+9986-BONCE,0.1583534032106399,LOW,MONITOR,4,20.95,85.5,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,Yes
+5301-GAUUY,0.3807200789451599,MEDIUM,ENGAGE,32,80.35,2596.15,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+0725-CXOTM,0.0706953406333923,LOW,MONITOR,36,89.65,3348.1,One year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+2843-CQMEG,0.1288977414369583,LOW,MONITOR,24,49.7,1218.25,Month-to-month,DSL,Mailed check,No,No,Yes,No
+5600-PDUJF,0.2569608390331268,LOW,MONITOR,6,49.5,312.7,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No
+4500-HKANN,0.015992809087038,LOW,MONITOR,23,59.7,1414.2,Two year,DSL,Mailed check,Yes,No,No,No
+1862-QRWPE,0.009152672253549,LOW,MONITOR,48,20.65,1057.0,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+2155-AMQRX,0.155632197856903,LOW,MONITOR,28,54.9,1505.15,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No
+0823-HSCDJ,0.5118094682693481,MEDIUM,ENGAGE,52,49.15,2550.9,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+4090-KPJIP,0.7385665774345398,HIGH,URGENT,3,74.95,212.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+2737-YNGYW,0.5893481969833374,MEDIUM,ENGAGE,2,80.55,184.1,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+5619-XZZKR,0.0342346206307411,LOW,MONITOR,4,19.95,68.2,One year,No,Mailed check,No internet service,No internet service,No,No
+6047-YHPVI,0.5694441199302673,MEDIUM,ENGAGE,5,69.7,316.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8375-DKEBR,0.9125880599021912,HIGH,URGENT,1,69.6,69.6,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7729-XBTWX,0.0046433773823082,LOW,MONITOR,66,19.75,1344.5,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+4983-CLMLV,0.3061284720897674,MEDIUM,ENGAGE,52,102.7,5138.1,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+9227-LUNBG,0.4809046387672424,MEDIUM,ENGAGE,1,24.6,24.6,Month-to-month,DSL,Electronic check,No,No,No,Yes
+2758-RNWXS,0.1599353700876236,LOW,MONITOR,35,89.2,3251.3,One year,Fiber optic,Electronic check,Yes,Yes,Yes,No
+7055-HNEOJ,0.2939406931400299,LOW,MONITOR,3,55.8,154.55,Month-to-month,DSL,Mailed check,Yes,No,Yes,No
+7134-MJPDY,0.2229044288396835,LOW,MONITOR,66,102.85,6976.75,One year,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+4560-WQAQW,0.0329721793532371,LOW,MONITOR,59,68.7,4070.95,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+8532-UEFWH,0.01868755556643,LOW,MONITOR,52,25.75,1345.85,Two year,No,Mailed check,No internet service,No internet service,No,No
+8541-QVFKM,0.7110596299171448,HIGH,URGENT,8,73.5,632.2,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+7129-ACFOG,0.4381055235862732,MEDIUM,ENGAGE,5,53.8,283.95,Month-to-month,DSL,Electronic check,No,Yes,Yes,No
+2495-INZWQ,0.6999750137329102,HIGH,URGENT,4,44.55,174.3,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+0263-FJTQO,0.0187235325574874,LOW,MONITOR,50,70.5,3486.65,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+0181-RITDD,0.0394831523299217,LOW,MONITOR,62,108.15,6825.65,Two year,Fiber optic,Mailed check,Yes,Yes,No,No
+8241-JUIQO,0.0323279052972793,LOW,MONITOR,61,19.45,1336.35,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+0913-XWSCN,0.2393724918365478,LOW,MONITOR,55,85.5,4713.4,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No
+2159-TURXX,0.0754069685935974,LOW,MONITOR,5,20.05,95.55,Month-to-month,No,Credit card (automatic),No internet service,No internet service,No,No
+6461-PPAXN,0.0423144549131393,LOW,MONITOR,35,54.95,1916.0,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+1452-KIOVK,0.3969955742359161,MEDIUM,ENGAGE,22,89.1,1949.4,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+1139-WUOAH,0.0267518684267997,LOW,MONITOR,57,53.35,3090.05,Two year,DSL,Credit card (automatic),Yes,No,No,No
+3207-OYBWH,0.2352133095264434,LOW,MONITOR,57,95.25,5427.05,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+8347-GDTMP,0.009791787713766,LOW,MONITOR,64,19.45,1225.65,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+9909-DFRJA,0.1432482004165649,LOW,MONITOR,26,95.85,2475.35,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+6383-ZTSIW,0.1536290049552917,LOW,MONITOR,39,99.1,3877.95,One year,Fiber optic,Mailed check,No,Yes,No,No
+5438-QMDDL,0.1948835849761963,LOW,MONITOR,19,59.8,1130.85,Month-to-month,DSL,Mailed check,No,No,Yes,No
+8914-RBTSB,0.3659544885158539,MEDIUM,ENGAGE,31,93.8,3019.5,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+6164-HXUGH,0.1048256382346153,LOW,MONITOR,6,19.85,119.3,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+6900-RBKER,0.0580271109938621,LOW,MONITOR,52,89.45,4577.75,Two year,Fiber optic,Credit card (automatic),No,No,Yes,No
+1492-QGCLU,0.1967990398406982,LOW,MONITOR,53,85.7,4616.1,Month-to-month,DSL,Electronic check,Yes,Yes,No,No
+6664-FPDAC,0.1442204415798187,LOW,MONITOR,56,111.95,6418.9,One year,Fiber optic,Electronic check,Yes,No,Yes,Yes
+1088-AUUZZ,0.0137030184268951,LOW,MONITOR,56,75.85,4261.2,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+6651-AZVTJ,0.6658313274383545,HIGH,URGENT,49,99.8,4872.45,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+8219-VYBVI,0.0128109408542513,LOW,MONITOR,39,25.0,1004.35,Two year,No,Mailed check,No internet service,No internet service,No,No
+0310-MVLET,0.3948548436164856,MEDIUM,ENGAGE,61,99.15,6010.05,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+7233-IOQNP,0.0864692479372024,LOW,MONITOR,43,34.0,1505.35,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No
+7311-MQJCH,0.0597913712263107,LOW,MONITOR,5,19.55,99.6,One year,No,Electronic check,No internet service,No internet service,No,No
+9256-JTBNZ,0.0849763005971908,LOW,MONITOR,11,20.3,246.3,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,No
+8713-IGZSO,0.1702690422534942,LOW,MONITOR,2,24.85,62.0,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+6821-BUXUX,0.734072208404541,HIGH,URGENT,13,96.65,1244.5,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+9114-DPSIA,0.0015943828038871,LOW,MONITOR,72,81.0,5750.0,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+4501-UYKBC,0.2202658653259277,LOW,MONITOR,46,69.1,3255.35,One year,DSL,Credit card (automatic),Yes,No,Yes,No
+2798-NYLMZ,0.4162725508213043,MEDIUM,ENGAGE,71,108.55,7616.0,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+6711-VTNRE,0.3411926627159118,MEDIUM,ENGAGE,36,87.55,3078.1,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes
+5966-EMAZU,0.1632123589515686,LOW,MONITOR,64,108.5,6880.85,One year,Fiber optic,Mailed check,Yes,Yes,Yes,No
+3627-FHKBK,0.5928446054458618,MEDIUM,ENGAGE,1,75.3,75.3,Month-to-month,Fiber optic,Mailed check,No,Yes,No,Yes
+7861-UVUFT,0.5466213226318359,MEDIUM,ENGAGE,15,84.3,1308.4,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+9824-QCJPK,0.0236776564270257,LOW,MONITOR,36,20.0,666.75,One year,No,Mailed check,No internet service,No internet service,No,No
+7816-VGHTO,0.026154488325119,LOW,MONITOR,6,40.55,217.5,Two year,DSL,Mailed check,Yes,No,No,No
+3794-NFNCH,0.0913359895348548,LOW,MONITOR,30,50.0,1474.9,Month-to-month,DSL,Mailed check,No,No,Yes,No
+3877-JRJIP,0.7458267211914062,HIGH,URGENT,1,59.85,59.85,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+5228-EXCET,0.4028480350971222,MEDIUM,ENGAGE,13,80.85,1008.7,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6248-BSHKG,0.0133092207834124,LOW,MONITOR,61,20.4,1226.45,One year,No,Mailed check,No internet service,No internet service,No,No
+8915-NNTRC,0.0062264245934784,LOW,MONITOR,72,107.7,7919.8,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No
+3470-OBUET,0.0441953018307685,LOW,MONITOR,67,74.0,4868.4,Two year,DSL,Credit card (automatic),Yes,Yes,No,No
+3229-USWAR,0.0919482037425041,LOW,MONITOR,34,79.95,2727.3,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+1927-QEWMY,0.0008068809402175,LOW,MONITOR,72,20.5,1502.25,Two year,No,Credit card (automatic),No internet service,No internet service,No,No
+6374-AFWOX,0.0169773809611797,LOW,MONITOR,46,65.65,3047.15,Two year,DSL,Mailed check,Yes,Yes,No,No
+7912-SYRQT,0.6645875573158264,HIGH,URGENT,7,75.1,552.95,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes
+2070-FNEXE,0.3559084236621856,MEDIUM,ENGAGE,7,76.45,503.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,Yes
+5803-NQJZO,0.0028174810577183,LOW,MONITOR,72,67.8,4804.65,Two year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+5651-YLPRD,0.4890564382076263,MEDIUM,ENGAGE,32,86.1,2723.75,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+1271-UODNO,0.0428813397884368,LOW,MONITOR,39,53.85,2200.7,Two year,DSL,Credit card (automatic),Yes,No,Yes,No
+5014-WUQMG,0.1223022118210792,LOW,MONITOR,47,96.1,4391.45,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+5889-JTMUL,0.4335319697856903,MEDIUM,ENGAGE,50,95.05,4888.7,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+0788-DXBFY,0.0921593904495239,LOW,MONITOR,58,19.55,1108.8,One year,No,Electronic check,No internet service,No internet service,Yes,No
+2669-QVCRG,0.2864243388175964,LOW,MONITOR,41,81.3,3190.65,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No
+6630-UJZMY,0.8327186703681946,HIGH,URGENT,4,83.25,308.05,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+5061-PBXFW,0.0820836648344993,LOW,MONITOR,32,61.4,1864.65,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No
+2700-LUEVA,0.23517806828022,LOW,MONITOR,1,20.75,20.75,Month-to-month,No,Credit card (automatic),No internet service,No internet service,No,No
+3865-ZFZIB,0.0091377831995487,LOW,MONITOR,19,19.65,358.15,Two year,No,Mailed check,No internet service,No internet service,No,No
+0471-ARVMX,0.2521998882293701,LOW,MONITOR,62,104.85,6312.9,One year,Fiber optic,Electronic check,No,Yes,Yes,No
+8985-OOPOS,0.1652534008026123,LOW,MONITOR,1,74.1,74.1,One year,DSL,Credit card (automatic),Yes,No,No,No
+0719-SYFRB,0.1739187240600586,LOW,MONITOR,12,61.65,713.75,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,Yes
+0447-BEMNG,0.147202581167221,LOW,MONITOR,48,45.3,2145.0,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,Yes
+5630-AHZIL,0.2316472828388214,LOW,MONITOR,3,64.5,177.4,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,Yes,No
+2190-BCXEC,0.2699069082736969,LOW,MONITOR,40,78.85,3126.85,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,No
+1559-DTODC,0.2984519600868225,LOW,MONITOR,19,25.15,468.35,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No
+3244-DCJWY,0.7947089076042175,HIGH,URGENT,1,70.25,70.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+3967-VQOGC,0.0032521928660571,LOW,MONITOR,67,24.9,1680.25,Two year,No,Mailed check,No internet service,No internet service,Yes,No
+0265-PSUAE,0.4071100354194641,MEDIUM,ENGAGE,16,100.7,1522.7,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,No
+1622-HSHSF,0.4819045960903168,MEDIUM,ENGAGE,1,19.55,19.55,Month-to-month,No,Mailed check,No internet service,No internet service,Yes,No
+9867-XOBQA,0.0157687831670045,LOW,MONITOR,21,53.15,1183.2,Two year,DSL,Mailed check,Yes,Yes,No,No
+6773-LQTVT,0.2510094046592712,LOW,MONITOR,29,35.65,1025.15,Month-to-month,DSL,Mailed check,No,No,Yes,No
+4332-MUOEZ,0.1843982487916946,LOW,MONITOR,20,94.3,1818.3,One year,Fiber optic,Credit card (automatic),Yes,Yes,No,No
+0023-XUOPT,0.5744382739067078,MEDIUM,ENGAGE,13,94.1,1215.6,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes
+6543-CPZMK,0.4396459758281708,MEDIUM,ENGAGE,9,29.95,248.95,Month-to-month,DSL,Electronic check,No,No,Yes,Yes
+6418-HNFED,0.0144778527319431,LOW,MONITOR,51,83.25,4089.45,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No
+1036-GUDCL,0.0567286573350429,LOW,MONITOR,60,79.05,4663.4,Month-to-month,DSL,Credit card (automatic),Yes,Yes,Yes,No
+4818-QIUFN,0.4759087860584259,MEDIUM,ENGAGE,20,79.15,1520.9,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes
+0778-NELLA,0.4420844912528991,MEDIUM,ENGAGE,9,34.7,296.1,Month-to-month,DSL,Credit card (automatic),No,No,Yes,Yes
+7495-OOKFY,0.7150286436080933,HIGH,URGENT,8,80.65,633.3,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+4737-HOBAX,0.0352246016263961,LOW,MONITOR,63,79.8,5034.05,Two year,DSL,Credit card (automatic),Yes,No,No,No
+7919-ZODZZ,0.2278603762388229,LOW,MONITOR,10,65.9,660.05,One year,DSL,Mailed check,No,No,Yes,No
+2988-PLAHS,0.2133168429136276,LOW,MONITOR,3,69.95,220.45,One year,DSL,Electronic check,No,No,Yes,No
+9067-SQTNS,0.0140012633055448,LOW,MONITOR,44,20.6,926.0,One year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+6483-OATDN,0.2124892920255661,LOW,MONITOR,8,51.3,411.6,Month-to-month,DSL,Credit card (automatic),No,Yes,Yes,No
+5469-CTCWN,0.1050966084003448,LOW,MONITOR,61,106.0,6547.7,One year,Fiber optic,Electronic check,No,Yes,Yes,Yes
+3524-WQDSG,0.6050240397453308,HIGH,URGENT,43,99.3,4209.95,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes,No
+6968-URWQU,0.1523832380771637,LOW,MONITOR,43,56.35,2391.15,One year,DSL,Mailed check,No,No,Yes,No
+8601-QACRS,0.4658370316028595,MEDIUM,ENGAGE,5,50.6,249.95,Month-to-month,DSL,Mailed check,No,No,Yes,Yes
+8690-UPCZI,0.0295684523880481,LOW,MONITOR,29,69.05,1958.45,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No
+5331-RGMTT,0.5860898494720459,MEDIUM,ENGAGE,54,99.05,5295.7,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No
+1357-BIJKI,0.3492149412631988,MEDIUM,ENGAGE,50,98.25,4858.7,One year,Fiber optic,Electronic check,No,No,Yes,No
+2088-IEBAU,0.041951447725296,LOW,MONITOR,68,88.15,6148.45,Two year,DSL,Electronic check,Yes,Yes,Yes,No
+0679-IDSTG,0.9203845858573914,HIGH,URGENT,1,69.25,69.25,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes
+6519-ZHPXP,0.0125202657654881,LOW,MONITOR,72,108.3,7679.65,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No
+2101-RANCD,0.3315745592117309,MEDIUM,ENGAGE,55,73.1,4144.9,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No
+4029-HPFVY,0.5313869118690491,MEDIUM,ENGAGE,3,70.3,220.4,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No
+1015-OWJKI,0.0951879993081092,LOW,MONITOR,1,19.05,19.05,Month-to-month,No,Mailed check,No internet service,No internet service,No,No
+8314-HTWVE,0.0090051349252462,LOW,MONITOR,7,19.85,144.15,Two year,No,Mailed check,No internet service,No internet service,No,No
+5357-TZHPP,0.8007916212081909,HIGH,URGENT,9,84.4,732.5,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes
+8727-XDPUD,0.0305281858891248,LOW,MONITOR,37,35.8,1316.9,Two year,DSL,Credit card (automatic),No,No,No,No
+9073-ZZIAY,0.0212996304035186,LOW,MONITOR,62,86.1,5215.25,Two year,DSL,Electronic check,Yes,Yes,No,No
+5181-OABFK,0.0217232909053564,LOW,MONITOR,56,61.3,3346.8,Two year,DSL,Credit card (automatic),No,Yes,Yes,No
+3812-LRZIR,0.0191534478217363,LOW,MONITOR,27,24.5,761.95,Two year,No,Electronic check,No internet service,No internet service,No,No
+5204-HMGYF,0.0447594299912452,LOW,MONITOR,49,87.2,4345.0,One year,DSL,Mailed check,Yes,Yes,Yes,No
+9950-MTGYX,0.0042026187293231,LOW,MONITOR,28,20.3,487.95,Two year,No,Credit card (automatic),No internet service,No internet service,Yes,No
+3675-EQOZA,0.0778201520442962,LOW,MONITOR,5,20.65,93.55,Month-to-month,No,Bank transfer (automatic),No internet service,No internet service,No,No
+3646-ITDGM,0.0466957427561283,LOW,MONITOR,56,19.7,1051.9,Two year,No,Bank transfer (automatic),No internet service,No internet service,No,No
+3913-FCUUW,0.0031354201491922,LOW,MONITOR,72,70.45,5165.7,Two year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No

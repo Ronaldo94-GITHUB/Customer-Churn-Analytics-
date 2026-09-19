@@ -1,0 +1,45 @@
+# Secrets and local credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+credentials.json
+credentials.*.json
+*service-account*.json
+*service_account*.json
+secrets.*
+.secrets/
+.aws/
+.ssh/
+.netrc
+.pypirc
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+.ipynb_checkpoints/
+# Local tools and operating system files
+.agents/
+.claude/
+.codex/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+

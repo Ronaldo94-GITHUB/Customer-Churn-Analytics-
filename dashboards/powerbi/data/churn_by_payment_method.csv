@@ -1,0 +1,6 @@
+PaymentMethod,customers,churned,churn_rate_pct
+Electronic check,2365,1071,45.29
+Mailed check,1612,308,19.11
+Bank transfer (automatic),1544,258,16.71
+Credit card (automatic),1522,232,15.24
+

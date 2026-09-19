@@ -1,0 +1,391 @@
+{
+  "repository": "Ronaldo94-GITHUB/customer-intelligence-risk-platform",
+  "tree_sha": "9e2f025ffa1c2491ed54692ed9047cc8945b2ef5",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha": "19bc75eb9bc4c1d432af3953c35ada4f100ae598",
+      "size": 523
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_by_contract.csv",
+      "sha": "67768594c93e0a3511a84394731e9672be86541d",
+      "size": 119
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_by_internet_service.csv",
+      "sha": "fe2a0fc148d641ce1ecb9426d386002e54e64973",
+      "size": 112
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_by_payment_method.csv",
+      "sha": "a5874c7f731debfb2fc7dcb606b8ea9fdc50fe8c",
+      "size": 188
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_by_risk.csv",
+      "sha": "dfc59aec31209001543920ca5abcb2ddf6fb421a",
+      "size": 202
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_by_tenure.csv",
+      "sha": "d8b45ced8b69d0703e8e3dc92e4660a2c75ac14f",
+      "size": 148
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_customer_intelligence_bi.csv",
+      "sha": "a732116a83d22fdac025d06ff7e08eb76bef5336",
+      "size": 166019
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_model_comparison.csv",
+      "sha": "bc7e32c4a69e424b6d3111f21c97acb99d0ef50c",
+      "size": 189
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_shap_importance.csv",
+      "sha": "cd306827d4164e9c5c5449d58180aca295288f4e",
+      "size": 431
+    },
+    {
+      "path": "dashboards/powerbi/data/churn_statistical_analysis.csv",
+      "sha": "1788376cee0d1d0f45e38f77d881991a3878a9e9",
+      "size": 2220
+    },
+    {
+      "path": "dashboards/powerbi/docs/dashboard_spec.md",
+      "sha": "2349377f79a010347016dba1d748cfc87db9c348",
+      "size": 4987
+    },
+    {
+      "path": "dashboards/powerbi/docs/measures.dax",
+      "sha": "510e7ed184439ca966e63e8152a819865551c721",
+      "size": 3021
+    },
+    {
+      "path": "data/processed/churn_customer_intelligence.csv",
+      "sha": "a22378645a3a24a5eafb872c0d3a644545ce1d4e",
+      "size": 61039
+    },
+    {
+      "path": "data/processed/churn_customer_intelligence_bi.csv",
+      "sha": "a732116a83d22fdac025d06ff7e08eb76bef5336",
+      "size": 166019
+    },
+    {
+      "path": "data/processed/telco_customer_churn_clean.csv",
+      "sha": "9eef56461e054974e4f9cc60e5ec1d6d79f954c3",
+      "size": 971911
+    },
+    {
+      "path": "data/raw/telco_customer_churn.csv",
+      "sha": "3de7a612d1609f25f21a455bda77948729369002",
+      "size": 970457
+    },
+    {
+      "path": "docs/customer_churn_release_v1.0.md",
+      "sha": "55a9d6172d8229667da804e68052a9f35cc49ad2",
+      "size": 2657
+    },
+    {
+      "path": "pyproject.toml",
+      "sha": "83bc4a9437e5c9ec48fb85c6fdc0f4ffc7d9d6a3",
+      "size": 764
+    },
+    {
+      "path": "reports/churn_sql_by_contract.csv",
+      "sha": "67768594c93e0a3511a84394731e9672be86541d",
+      "size": 119
+    },
+    {
+      "path": "reports/churn_sql_by_internet_service.csv",
+      "sha": "fe2a0fc148d641ce1ecb9426d386002e54e64973",
+      "size": 112
+    },
+    {
+      "path": "reports/churn_sql_by_payment_method.csv",
+      "sha": "a5874c7f731debfb2fc7dcb606b8ea9fdc50fe8c",
+      "size": 188
+    },
+    {
+      "path": "reports/churn_sql_by_risk.csv",
+      "sha": "dfc59aec31209001543920ca5abcb2ddf6fb421a",
+      "size": 202
+    },
+    {
+      "path": "reports/churn_sql_by_tenure.csv",
+      "sha": "d8b45ced8b69d0703e8e3dc92e4660a2c75ac14f",
+      "size": 148
+    },
+    {
+      "path": "reports/churn_statistical_analysis.csv",
+      "sha": "1788376cee0d1d0f45e38f77d881991a3878a9e9",
+      "size": 2220
+    },
+    {
+      "path": "scripts/compare_churn_models.py",
+      "sha": "e01ebdc20d19a339da121ba21f67d740d6bb78a0",
+      "size": 2059
+    },
+    {
+      "path": "scripts/run_churn_sql_analytics.py",
+      "sha": "17173845b4160fa2b2b35d371755f0ac5f6f49c5",
+      "size": 5178
+    },
+    {
+      "path": "src/customer_intelligence_risk/core/contracts/__init__.py",
+      "sha": "7757123f3abbc757e6947782c788925bb12f86e4",
+      "size": 147
+    },
+    {
+      "path": "src/customer_intelligence_risk/core/contracts/module.py",
+      "sha": "a489de608436b5456076ca65f9fa554d8144fc72",
+      "size": 774
+    },
+    {
+      "path": "src/customer_intelligence_risk/dashboard/churn_view.py",
+      "sha": "e4178ce74724b3da5b6165735d4f9b559b1cec17",
+      "size": 7878
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/__init__.py",
+      "sha": "c2ac457e65a7c43ffa698067f20ecb4f60b40107",
+      "size": 74
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/__init__.py",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/customer_profile.py",
+      "sha": "b137fa82b55b57305022758871323eb49b8b1c63",
+      "size": 1451
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/eda.py",
+      "sha": "1c9cd3698234ab4fc8c31f0383758d1c6dff13ca",
+      "size": 2856
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/intelligence.py",
+      "sha": "a1cb21df08b2fbfec8d357baebcc44eacf0115d8",
+      "size": 1802
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/retention.py",
+      "sha": "6cb067799de182488b4db1db6cce6c98719f5ba7",
+      "size": 1035
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/risk.py",
+      "sha": "a82c98c10163271f4866ec546abcab781b23c678",
+      "size": 1353
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/sql_analytics.py",
+      "sha": "54983abb8485455ab677bad8381f055de9f57d0a",
+      "size": 788
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/analytics/statistics.py",
+      "sha": "f2883d9b6951422eefb3a567fd5d6e082520d5a5",
+      "size": 3700
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/data/__init__.py",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/data/cleaner.py",
+      "sha": "cee400e2426e26ae091ece13022e8e6a60663210",
+      "size": 990
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/data/contract.py",
+      "sha": "19db613054db277c08ef83fb3daff4e769434f8a",
+      "size": 1291
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/data/loader.py",
+      "sha": "7b43018a7f204e085e09fcd7a1da06030090b37d",
+      "size": 1501
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/data/quality.py",
+      "sha": "78e839da829f8845f2b6b845585e3a456284da0c",
+      "size": 2223
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/features/__init__.py",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/features/builder.py",
+      "sha": "80459476b52d3517660865eb56b31b93286e54fe",
+      "size": 1428
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/features/preprocessor.py",
+      "sha": "1b741891c9fee42bf6bc4586c2ae32c3b000caaa",
+      "size": 1282
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/features/splitter.py",
+      "sha": "64f689b46f09545c1a1e4e6efa55b7f8e397c0f2",
+      "size": 1465
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/models/__init__.py",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/models/evaluation.py",
+      "sha": "fc84a35b5349ae8f279eb990ffbecb9b2f6deff6",
+      "size": 1805
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/models/explainability.py",
+      "sha": "1f7c6abdc9f8f9d032235d904cbe78b0396d44c8",
+      "size": 3525
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/models/logistic.py",
+      "sha": "67f12d5641b21a94054a1eb1a3bf55d8f01fc6df",
+      "size": 865
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/models/random_forest.py",
+      "sha": "b5acf7f2548026069d5bbee79f965a9b42227a73",
+      "size": 996
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/models/xgboost_model.py",
+      "sha": "f3195a1452a0de98dc5689068082da0457dc7383",
+      "size": 1186
+    },
+    {
+      "path": "src/customer_intelligence_risk/modules/customer_churn/module.py",
+      "sha": "481ee35dbefb949f975639e2106aad4c828e8f6f",
+      "size": 654
+    },
+    {
+      "path": "tests/unit/test_customer_churn_cleaner.py",
+      "sha": "d0b82202c7fd989f5549712090c347c89a9a80f1",
+      "size": 1660
+    },
+    {
+      "path": "tests/unit/test_customer_churn_customer_profile.py",
+      "sha": "56fa1ca6eb509f48adf27489d5ca591f3bc1abfb",
+      "size": 1746
+    },
+    {
+      "path": "tests/unit/test_customer_churn_eda.py",
+      "sha": "6fa7f9ef614956ef1568fd7e305ba8ff8e0b1c73",
+      "size": 1719
+    },
+    {
+      "path": "tests/unit/test_customer_churn_evaluation.py",
+      "sha": "631fb13fbd99e05a591ffe60dfafe74a0ab06ea8",
+      "size": 1403
+    },
+    {
+      "path": "tests/unit/test_customer_churn_explainability.py",
+      "sha": "6d5bd80051c9576a89f30045e11356985e8a8afd",
+      "size": 3772
+    },
+    {
+      "path": "tests/unit/test_customer_churn_feature_builder.py",
+      "sha": "df9357c7906c6545bbfd34022a21ad1ef334dc89",
+      "size": 1482
+    },
+    {
+      "path": "tests/unit/test_customer_churn_intelligence.py",
+      "sha": "215c142daf43b7afd13ca58b581a4b04c3aa8d15",
+      "size": 2257
+    },
+    {
+      "path": "tests/unit/test_customer_churn_loader.py",
+      "sha": "2e7ca4b248eb84dff4ee3730e2a9f77d10f164b6",
+      "size": 1792
+    },
+    {
+      "path": "tests/unit/test_customer_churn_logistic.py",
+      "sha": "95f2d8fd663f00be269c420a9b6259af3e275db7",
+      "size": 3251
+    },
+    {
+      "path": "tests/unit/test_customer_churn_module.py",
+      "sha": "c5ebe42bc73e93760326fb900cfab49ac3bae9bd",
+      "size": 1412
+    },
+    {
+      "path": "tests/unit/test_customer_churn_numerical_eda.py",
+      "sha": "edf37580a7e658ae091c1fb320c3aa21cfe139e8",
+      "size": 1463
+    },
+    {
+      "path": "tests/unit/test_customer_churn_numerical_statistics.py",
+      "sha": "6ec1c5b57cb7740b82039764d2345a36bf3bf66e",
+      "size": 2888
+    },
+    {
+      "path": "tests/unit/test_customer_churn_preprocessor.py",
+      "sha": "9ccdd7890fb0e5a68eaf66367264f4a79ab01006",
+      "size": 2051
+    },
+    {
+      "path": "tests/unit/test_customer_churn_quality.py",
+      "sha": "8bbf894dda70618b3a2bf7161e0c6f8387973e87",
+      "size": 1734
+    },
+    {
+      "path": "tests/unit/test_customer_churn_random_forest.py",
+      "sha": "c8b5f19b345f4e6caa23f0b5821220c99d92d07e",
+      "size": 3276
+    },
+    {
+      "path": "tests/unit/test_customer_churn_retention.py",
+      "sha": "365ca9af74f25a76ad66296363f5ea7d5ee4cd06",
+      "size": 1331
+    },
+    {
+      "path": "tests/unit/test_customer_churn_risk.py",
+      "sha": "f362ec6c0da0f73831d61d78cdd2e767a1d807f6",
+      "size": 1639
+    },
+    {
+      "path": "tests/unit/test_customer_churn_shap_customer_factors.py",
+      "sha": "6edbc46689e44377c737fadd0d8c2e0e2ee8df86",
+      "size": 2341
+    },
+    {
+      "path": "tests/unit/test_customer_churn_shap_importance.py",
+      "sha": "fdacbf7273c2b50efffbcaac6f0bbcc3a83eee22",
+      "size": 2098
+    },
+    {
+      "path": "tests/unit/test_customer_churn_splitter.py",
+      "sha": "3461eecadf8b2638e03aecb11eb1034dfeed038b",
+      "size": 1733
+    },
+    {
+      "path": "tests/unit/test_customer_churn_sql_analytics.py",
+      "sha": "4fbc159fe14b9c27051cf099b2d68da633e64015",
+      "size": 2823
+    },
+    {
+      "path": "tests/unit/test_customer_churn_statistics.py",
+      "sha": "2ed19688f08bedb188e8f3f923e5ce8ea2190470",
+      "size": 3036
+    },
+    {
+      "path": "tests/unit/test_customer_churn_xgboost.py",
+      "sha": "8bd082aae0dfea3250247a252b7f3f77ac094153",
+      "size": 3215
+    }
+  ]
+}

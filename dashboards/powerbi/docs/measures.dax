@@ -1,0 +1,147 @@
+-- Customer Intelligence & Risk ML Platform
+-- Customer Churn — Power BI Measures
+
+Total Customers =
+DISTINCTCOUNT(churn_customer_intelligence_bi[customer_id])
+
+Churned Customers =
+CALCULATE(
+    [Total Customers],
+    churn_customer_intelligence_bi[actual_churn] = "Yes"
+)
+
+Churn Rate % =
+DIVIDE(
+    [Churned Customers],
+    [Total Customers],
+    0
+)
+
+High Risk Customers =
+CALCULATE(
+    [Total Customers],
+    churn_customer_intelligence_bi[risk_level] = "HIGH"
+)
+
+High Risk % =
+DIVIDE(
+    [High Risk Customers],
+    [Total Customers],
+    0
+)
+
+Urgent Retention =
+CALCULATE(
+    [Total Customers],
+    churn_customer_intelligence_bi[retention_priority] = "URGENT"
+)
+
+Average Churn Probability =
+AVERAGE(
+    churn_customer_intelligence_bi[churn_probability]
+)
+
+Average Monthly Charges =
+AVERAGE(
+    churn_customer_intelligence_bi[MonthlyCharges]
+)
+
+Average Tenure =
+AVERAGE(
+    churn_customer_intelligence_bi[tenure]
+)
+
+High Risk Actual Churn =
+CALCULATE(
+    [Churned Customers],
+    churn_customer_intelligence_bi[risk_level] = "HIGH"
+)
+
+High Risk Actual Churn Rate % =
+DIVIDE(
+    [High Risk Actual Churn],
+    [High Risk Customers],
+    0
+)
+
+-- ============================================================
+-- Credit Risk - Power BI Measures
+-- ============================================================
+
+Credit Risk Evaluated Customers =
+DISTINCTCOUNT(
+    credit_risk_customer_intelligence_bi[source_index]
+)
+
+Credit Risk Observed BAD =
+CALCULATE(
+    [Credit Risk Evaluated Customers],
+    credit_risk_customer_intelligence_bi[actual_bad_risk] = 1
+)
+
+Credit Risk Observed BAD Rate % =
+DIVIDE(
+    [Credit Risk Observed BAD],
+    [Credit Risk Evaluated Customers],
+    0
+)
+
+Credit Risk High Risk Customers =
+CALCULATE(
+    [Credit Risk Evaluated Customers],
+    credit_risk_customer_intelligence_bi[risk_level] = "HIGH"
+)
+
+Credit Risk High Risk % =
+DIVIDE(
+    [Credit Risk High Risk Customers],
+    [Credit Risk Evaluated Customers],
+    0
+)
+
+Credit Risk Medium Risk Customers =
+CALCULATE(
+    [Credit Risk Evaluated Customers],
+    credit_risk_customer_intelligence_bi[risk_level] = "MEDIUM"
+)
+
+Credit Risk Low Risk Customers =
+CALCULATE(
+    [Credit Risk Evaluated Customers],
+    credit_risk_customer_intelligence_bi[risk_level] = "LOW"
+)
+
+Credit Risk Priority Review =
+CALCULATE(
+    [Credit Risk Evaluated Customers],
+    credit_risk_customer_intelligence_bi[analytical_priority]
+        = "PRIORITY_REVIEW"
+)
+
+Credit Risk Average Bad Risk Probability =
+AVERAGE(
+    credit_risk_customer_intelligence_bi[bad_risk_probability]
+)
+
+Credit Risk Average Amount =
+AVERAGE(
+    credit_risk_customer_intelligence_bi[amount]
+)
+
+Credit Risk Average Duration =
+AVERAGE(
+    credit_risk_customer_intelligence_bi[duration]
+)
+
+Credit Risk High Risk Observed BAD =
+CALCULATE(
+    [Credit Risk Observed BAD],
+    credit_risk_customer_intelligence_bi[risk_level] = "HIGH"
+)
+
+Credit Risk High Risk Observed BAD Rate % =
+DIVIDE(
+    [Credit Risk High Risk Observed BAD],
+    [Credit Risk High Risk Customers],
+    0
+)

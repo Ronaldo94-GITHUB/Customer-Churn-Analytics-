@@ -1,0 +1,4 @@
+risk_level,retention_priority,customers,avg_probability,avg_monthly_charges,observed_churn_pct
+HIGH,URGENT,199,0.7464,79.45,73.87
+MEDIUM,ENGAGE,336,0.4438,71.99,40.48
+LOW,MONITOR,874,0.0887,57.56,10.41
