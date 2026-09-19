@@ -1,9 +1,5 @@
 # Customer Churn Analytics — 1.0
 
-Projeto independente extraído de `Ronaldo94-GITHUB/customer-intelligence-risk-platform`.
-O código, os testes e os dados de Churn foram reaproveitados; os imports agora usam
-o pacote `customer_churn`. A plataforma original não foi modificada.
-
 ## Executar no PowerShell
 
 Abra o terminal nesta pasta e use Python 3.11 ou superior:
