@@ -64,5 +64,5 @@ O script SQL recria os cinco relatórios de negócio em `reports/`.
 3. Acrescentar previsão de novos clientes com modelo salvo e validação de entrada.
 4. Montar o arquivo Power BI e o roteiro de apresentação.
 
-Não foram copiados módulos de fraude, crédito ou lifetime value.
+
 Repositório: https://github.com/Ronaldo94-GITHUB/Customer-Churn-Analytics-
